@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reference on IdlePhysicist</title>
+    <link>https://eoghan.speleo.dev/tags/reference/</link>
+    <description>Recent content in Reference on IdlePhysicist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist)</copyright>
+    <lastBuildDate>Fri, 23 Mar 2018 21:37:45 +0100</lastBuildDate>
+    
+	<atom:link href="https://eoghan.speleo.dev/tags/reference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#4 - Ceramic Capacitor Markings</title>
+      <link>https://eoghan.speleo.dev/posts/2018-03-23-cap-markings/</link>
+      <pubDate>Fri, 23 Mar 2018 21:37:45 +0100</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/posts/2018-03-23-cap-markings/</guid>
+      <description>A shameless repost from Grathio Labs. The document lists the values for capacitor markings.</description>
+    </item>
+    
+    <item>
+      <title>#1 - What the hell is with Simultaneous Equations?</title>
+      <link>https://eoghan.speleo.dev/posts/2017-06-03-what-the-hell-is-with-simultaneous-equations/</link>
+      <pubDate>Sat, 03 Jun 2017 21:57:45 +0100</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/posts/2017-06-03-what-the-hell-is-with-simultaneous-equations/</guid>
+      <description>NB: In school when we say Simultaneous Equations, we generally mean to say a system of linear equations or a linear system.
+Well it&amp;rsquo;s a fair question! They were always one thing I struggled with in school, but I could usually wrangle the answers for the 2 dimensional set of equations but I could never get the correct answers for a 3 dimensional set of equations. We probably all learnt the same method for solving Simultaneous Equations, or symbos as one teacher in my school referred to them as.</description>
+    </item>
+    
+  </channel>
+</rss>

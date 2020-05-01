@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>#6 - Compile Script - IdlePhysicist</title>
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+<header>
+  <div>
+    <h1><a href="https://eoghan.speleo.dev">IdlePhysicist</a></h1>
+  </div>
+  <nav><a href="/tags/">Tags</a><a href="/programming/">Programming</a><a href="/caving/">Caving Logs</a><a href="/about/">About Me</a></nav>
+</header>
+<main>
+  <article>
+    <div class="title">
+  <h1>#6 - Compile Scripts</h1>
+  </div>
+<div class="meta">
+  <div>2018-05-27 22:57</div>
+  <div>
+    <span><a href="/tags/programming">#Programming</a></span>
+    </div>
+  </div>
+<div class="content">
+  <p>A compile script is a shell script to compile programs which consist of multiple files, and potentially libraries too. In my opinion at least a compile script is a step below a Makefile. I had honestly not heard of such a thing until I was helping a lecturer to test that his old FORTRAN simulation would compile and run on a modern UNIX machine. The purpose of the script was to simply compile all the source files and then link the object files to the executable<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
+<p>I found <a href="https://www.cs.tufts.edu/comp/40-2011f/readings/compile.pdf">this</a> useful resource by Norman Ramsey, which gives an example compile script too.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>Strangely when I received the compile script it had been written in such a way that the user would compile the source files first, then modify the script to link those object files and finally run the script a second time! Honestly I saw no benefit to this so I &hellip; fixed it. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+</div>
+
+  </article>
+</main>
+<footer>
+  <div>
+    <div>© 2020 Eoghan - <a href="https://github.com/IdlePhysicist">GitHub</a> - <a href="https://gitlab.com/IdlePhysicist">GitLab</a></div>
+  </div>
+</footer>
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-119867334-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+</body>
+</html>

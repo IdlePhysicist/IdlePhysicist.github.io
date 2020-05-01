@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GUI on IdlePhysicist</title>
+    <link>https://eoghan.speleo.dev/tags/gui/</link>
+    <description>Recent content in GUI on IdlePhysicist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist)</copyright>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eoghan.speleo.dev/tags/gui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fuelometer</title>
+      <link>https://eoghan.speleo.dev/programming/2019-01-25-fuelometer/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/programming/2019-01-25-fuelometer/</guid>
+      <description>Fuelometer Repo
+I wanted to keep track of my fuel consumption so I wrote a little app to do it. It&amp;rsquo;s my first GUI application, using PyQt5. I store the data in a SQLite database.
+Note there are three branches of the code, this is only a prototype there will be bugs &amp;amp; the numbers may be invalid!
+  </description>
+    </item>
+    
+  </channel>
+</rss>

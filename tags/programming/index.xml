@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on IdlePhysicist</title>
+    <link>https://eoghan.speleo.dev/tags/programming/</link>
+    <description>Recent content in Programming on IdlePhysicist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist)</copyright>
+    <lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eoghan.speleo.dev/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cave Logger</title>
+      <link>https://eoghan.speleo.dev/programming/2017-12-03-cave-logger/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/programming/2017-12-03-cave-logger/</guid>
+      <description>Cave Logger Repo
+Background I used to keep track of what caves I have visited (and who I go with) using an Excel Workbook. I decided (in 2017) to write a program to do this for me because why not ?!
+Come 2019, I started to use Go at work, and I finally go around to looking at this project again.
+ A screen shot of cave-logger
+  Functionality The app is fairly basic, it gives the user the ability to create, update and delete entries for trips, cavers, and caves.</description>
+    </item>
+    
+    <item>
+      <title>Go-LaTeX</title>
+      <link>https://eoghan.speleo.dev/programming/2019-10-03-go-latex/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/programming/2019-10-03-go-latex/</guid>
+      <description>go-latex Repo
+I had an idea to use some Unicode characters in my Go projects, particularly ones that are physics or calculation based projects. But I personally did not want to have to either copy and paste the unicode characters or have to manually type in the unicodes for the various characters.
+So I devised a solution, which was to write a simple parser that would regex out LaTeX commands for Greek letters and insert the correct character from a map stored within the application binary.</description>
+    </item>
+    
+    <item>
+      <title>PDF Split</title>
+      <link>https://eoghan.speleo.dev/programming/2019-03-02-pdfsplit/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/programming/2019-03-02-pdfsplit/</guid>
+      <description>PDF Split Repo
+I saw someone painstakingly exporting pages of a large PDF document manually to get smaller individual PDFs, containing ranges of pages from the parent document. I thought &amp;ldquo;Hey I could definitely make that easier!&amp;quot;, so I sat down for a couple of hours and wrote a very short script to act as a middleman between the user and GhostScript.</description>
+    </item>
+    
+    <item>
+      <title>CSV2JSON</title>
+      <link>https://eoghan.speleo.dev/programming/2019-02-28-csv2json/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/programming/2019-02-28-csv2json/</guid>
+      <description>csv2json Repo
+Caution This is another quickly thrown together project that may have unintended results, and a perhaps more reliable program could be put together in Python in half the lines &amp;amp; a quarter the time. But it was to be a learning experience!
+In work a couple of weeks ago I came upon a task that I thought could be made easier by having a JSON file to parse instead of a csv file, and I had a hankering to write some Go after been stuck on Python projects for months.</description>
+    </item>
+    
+    <item>
+      <title>Fuelometer</title>
+      <link>https://eoghan.speleo.dev/programming/2019-01-25-fuelometer/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/programming/2019-01-25-fuelometer/</guid>
+      <description>Fuelometer Repo
+I wanted to keep track of my fuel consumption so I wrote a little app to do it. It&amp;rsquo;s my first GUI application, using PyQt5. I store the data in a SQLite database.
+Note there are three branches of the code, this is only a prototype there will be bugs &amp;amp; the numbers may be invalid!
+  </description>
+    </item>
+    
+    <item>
+      <title>#7 - Plotting in Julia (using Python)</title>
+      <link>https://eoghan.speleo.dev/posts/2018-08-12-julia-plotting/</link>
+      <pubDate>Sun, 12 Aug 2018 17:15:45 +0100</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/posts/2018-08-12-julia-plotting/</guid>
+      <description>The first step is to have Julia installed as well as a plotting library. I chose to use PyPlot as it uses Matplotlib which I am used to from Python. Install PyPlot using Pkg.add(&amp;quot;PyPlot&amp;quot;) at the Julia prompt.
+Below is an example to generate a Hertzsprung–Russell diagram.
+# Reading in some data. data = readdlm(&amp;#34;stars.txt&amp;#34;,&amp;#39; &amp;#39;) temperature = data[:,1] magnitude = data[:,2] # Call the plotting library as below using PyPlot figure(1,figsize=(6,6)) rc(&amp;#34;font&amp;#34;, family=&amp;#34;sans&amp;#34;) rc(&amp;#34;xtick&amp;#34;, labelsize=&amp;#34;small&amp;#34;) rc(&amp;#34;ytick&amp;#34;, labelsize=&amp;#34;small&amp;#34;) scatter(temperature,magnitude,linewidth=2) #ylim(0,0.</description>
+    </item>
+    
+    <item>
+      <title>#6 - Compile Scripts</title>
+      <link>https://eoghan.speleo.dev/posts/2018-05-27-compile-script/</link>
+      <pubDate>Sun, 27 May 2018 22:57:45 +0100</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/posts/2018-05-27-compile-script/</guid>
+      <description>A compile script is a shell script to compile programs which consist of multiple files, and potentially libraries too. In my opinion at least a compile script is a step below a Makefile. I had honestly not heard of such a thing until I was helping a lecturer to test that his old FORTRAN simulation would compile and run on a modern UNIX machine. The purpose of the script was to simply compile all the source files and then link the object files to the executable1.</description>
+    </item>
+    
+    <item>
+      <title>#2 - Git Tutorial / Commands</title>
+      <link>https://eoghan.speleo.dev/posts/2018-02-09-git-tutorial/</link>
+      <pubDate>Fri, 09 Feb 2018 21:57:45 +0100</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/posts/2018-02-09-git-tutorial/</guid>
+      <description>Git is a program used for version control through github.com.
+So here are the steps I use to create a repository:
+git init echo &amp;quot;# &amp;lt;Repo Name&amp;gt;&amp;quot; &amp;gt;&amp;gt; README.md git add README.md git commit -m &amp;quot;1st Commit&amp;quot; Now I go to my github account page and hit &amp;ldquo;New Repository&amp;rdquo;, then type in a name and hit create. Back to the terminal:
+git remote add origin &amp;lt;url to .git&amp;gt; git push -u origin master git add * git commit -m “&amp;lt;message&amp;gt;” git push To save myself some time, I added the following line to my .</description>
+    </item>
+    
+    <item>
+      <title>Coffee Socket</title>
+      <link>https://eoghan.speleo.dev/programming/2016-11-04-coffee-socket/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/programming/2016-11-04-coffee-socket/</guid>
+      <description>Coffee Socket is an idea I had a number of years ago, when I was frequenting coffee shops in Dublin and inevitably needed to charge my laptop. The concept was for a website (initially) that would have an embedded map with pins for each coffee shop / tea room in Dublin. &amp;ldquo;Nothing interesting here&amp;rdquo; you&amp;rsquo;re thinking to yourself, well the cool bit was that by clicking on each pin you would be told the number of seats &amp;amp; power sockets per floor, as well as the ratio of seats to sockets.</description>
+    </item>
+    
+  </channel>
+</rss>

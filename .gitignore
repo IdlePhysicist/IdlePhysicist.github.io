@@ -1,0 +1,11 @@
+# -- Ignore ----
+
+# Editor
+.vs_code/
+*.swp
+
+# Mac
+*.DS_Store
+
+
+# -- Except ----

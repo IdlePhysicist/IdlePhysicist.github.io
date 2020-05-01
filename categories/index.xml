@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on IdlePhysicist</title>
+    <link>https://eoghan.speleo.dev/categories/</link>
+    <description>Recent content in Categories on IdlePhysicist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist)</copyright>
+    <lastBuildDate>Mon, 08 Apr 2019 19:26:45 -0600</lastBuildDate>
+    
+	<atom:link href="https://eoghan.speleo.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>blog</title>
+      <link>https://eoghan.speleo.dev/categories/blog/</link>
+      <pubDate>Mon, 08 Apr 2019 19:26:45 -0600</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

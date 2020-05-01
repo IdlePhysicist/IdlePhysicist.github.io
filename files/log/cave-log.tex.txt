@@ -1,0 +1,172 @@
+%!TEX TS-program = xelatex
+%
+% Latex template for my cave logs
+% Eoghan, 2019
+%
+\documentclass[11pt]{article}
+
+
+%
+% Page Layout & Margins
+%
+\usepackage{geometry}
+\geometry{
+  a4paper, % 210×297 millimeters or 8.27×11.69 inches. In PS 595×842 pt
+  top=21mm,
+  bottom=11mm,
+  left=11mm,
+  right=11mm,
+  includefoot,
+  footskip=35pt %26pt
+}
+
+
+%
+% Setup for the Typewriter look
+%
+\usepackage{manuscript}
+\usepackage[T1]{fontenc} % To do fadas etc.
+\usepackage{ulem}
+\renewcommand{\ULdepth}{3pt}
+
+%
+% Section Centring
+%
+\usepackage{titlesec}
+\titlespacing*
+  {\section}
+  {0pt} % Left
+  {20pt}%{59pt} % Before Sep
+  {2pt} % After Sep
+  % 48pt plus 11pt + 11
+
+\titlespacing*
+  {\subsection}
+  {0pt}
+  {18pt}
+  {0pt}
+
+\titleformat
+  {\section} % Command
+  {\fontsize{11pt}{20pt}\centering\MakeUppercase} % Format
+  {\thesection} % Label
+  {0em} % Separation
+  {\uline} % Before Code
+
+\titleformat
+  {\subsection}
+  {\fontsize{11pt}{18pt}\MakeUppercase}
+  {\thesection}
+  {0em}
+  {\uline}
+
+
+%
+% Paragraphs
+%
+\setlength{\parindent}{0pt}
+\setlength{\parsep}{12pt}
+\setlength{\parskip}{12pt}
+\linespread{1.2} % YESSSS 1.2 IS THE MAGIC NUMBER
+
+
+%
+% Symbols for Equations
+%
+\usepackage{amsmath}
+
+
+%
+% Hyperlinks
+%
+\usepackage[breaklinks=true]{hyperref}
+\hypersetup{
+  colorlinks,
+  citecolor=blue,
+  filecolor=blue,
+  linkcolor=blue,
+  urlcolor=blue
+}
+$if(url)$
+\usepackage{url}
+$endif$
+
+
+%
+% Subscripts
+%
+% Pandoc remembers whether you used subscripts, assigning True to
+% its `subscript` variable
+% It then needs to adopt a default with an incantation like this:
+$if(subscript)$
+\newcommand{\textsubscr}[1]{\ensuremath{_{\scriptsize\textrm{#1}}}}
+$endif$
+
+
+%
+% Section numbering.
+%
+% Here again is a variable you can specify on the commandline
+% `markdown2pdf my.txt --number-sections --xetex --template=/wherever/this/is -o my.pdf`
+$if(numbersections)$
+$else$
+\setcounter{secnumdepth}{0}
+$endif$
+
+
+%
+% Images
+%
+$if(graphics)$
+\usepackage{longtable,booktabs} % Stack Exchange said to use it
+\usepackage{graphicx}
+% Redefine \includegraphics so that, unless explicit options are
+% given, the image width will not exceed the width or the height of the page.
+% Images get their normal width if they fit onto the page, but
+% are scaled down if they would overflow the margins.
+\makeatletter
+\def\ScaleWidthIfNeeded{%
+ \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+\def\ScaleHeightIfNeeded{%
+  \ifdim\Gin@nat@height>0.9\textheight
+    0.9\textheight
+  \else
+    \Gin@nat@width
+  \fi
+}
+\makeatother
+
+\setkeys{Gin}{width=\ScaleWidthIfNeeded,height=\ScaleHeightIfNeeded,keepaspectratio}
+
+$endif$
+
+%
+% The Document
+%
+\begin{document}
+
+$if(title)$
+\maketitle
+$endif$
+
+$if(toc)$
+\tableofcontents
+$endif$
+
+
+$if(alignment)$
+\begin{$alignment$}
+$endif$
+
+$body$
+
+$if(alignment)$
+\end{$alignment$}
+$endif$
+
+\end{document}

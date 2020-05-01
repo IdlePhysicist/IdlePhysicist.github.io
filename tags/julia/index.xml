@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia on IdlePhysicist</title>
+    <link>https://eoghan.speleo.dev/tags/julia/</link>
+    <description>Recent content in Julia on IdlePhysicist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist)</copyright>
+    <lastBuildDate>Sun, 12 Aug 2018 17:15:45 +0100</lastBuildDate>
+    
+	<atom:link href="https://eoghan.speleo.dev/tags/julia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#7 - Plotting in Julia (using Python)</title>
+      <link>https://eoghan.speleo.dev/posts/2018-08-12-julia-plotting/</link>
+      <pubDate>Sun, 12 Aug 2018 17:15:45 +0100</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/posts/2018-08-12-julia-plotting/</guid>
+      <description>The first step is to have Julia installed as well as a plotting library. I chose to use PyPlot as it uses Matplotlib which I am used to from Python. Install PyPlot using Pkg.add(&amp;quot;PyPlot&amp;quot;) at the Julia prompt.
+Below is an example to generate a Hertzsprung–Russell diagram.
+# Reading in some data. data = readdlm(&amp;#34;stars.txt&amp;#34;,&amp;#39; &amp;#39;) temperature = data[:,1] magnitude = data[:,2] # Call the plotting library as below using PyPlot figure(1,figsize=(6,6)) rc(&amp;#34;font&amp;#34;, family=&amp;#34;sans&amp;#34;) rc(&amp;#34;xtick&amp;#34;, labelsize=&amp;#34;small&amp;#34;) rc(&amp;#34;ytick&amp;#34;, labelsize=&amp;#34;small&amp;#34;) scatter(temperature,magnitude,linewidth=2) #ylim(0,0.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS on IdlePhysicist</title>
+    <link>https://eoghan.speleo.dev/tags/gis/</link>
+    <description>Recent content in GIS on IdlePhysicist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist)</copyright>
+    <lastBuildDate>Fri, 04 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eoghan.speleo.dev/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coffee Socket</title>
+      <link>https://eoghan.speleo.dev/programming/2016-11-04-coffee-socket/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/programming/2016-11-04-coffee-socket/</guid>
+      <description>Coffee Socket is an idea I had a number of years ago, when I was frequenting coffee shops in Dublin and inevitably needed to charge my laptop. The concept was for a website (initially) that would have an embedded map with pins for each coffee shop / tea room in Dublin. &amp;ldquo;Nothing interesting here&amp;rdquo; you&amp;rsquo;re thinking to yourself, well the cool bit was that by clicking on each pin you would be told the number of seats &amp;amp; power sockets per floor, as well as the ratio of seats to sockets.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>#2 - Git Tutorial / Command - IdlePhysicist</title>
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+<header>
+  <div>
+    <h1><a href="https://eoghan.speleo.dev">IdlePhysicist</a></h1>
+  </div>
+  <nav><a href="/tags/">Tags</a><a href="/programming/">Programming</a><a href="/caving/">Caving Logs</a><a href="/about/">About Me</a></nav>
+</header>
+<main>
+  <article>
+    <div class="title">
+  <h1>#2 - Git Tutorial / Commands</h1>
+  </div>
+<div class="meta">
+  <div>2018-02-09 21:57</div>
+  <div>
+    <span><a href="/tags/git">#Git</a></span>
+    <span><a href="/tags/programming">#Programming</a></span>
+    </div>
+  </div>
+<div class="content">
+  <p>Git is a program used for version control through <a href="www.github.com">github.com</a>.</p>
+<p>So here are the steps I use to create a repository:</p>
+<pre><code>git init
+echo &quot;# &lt;Repo Name&gt;&quot; &gt;&gt; README.md
+git add README.md
+git commit -m &quot;1st Commit&quot;
+</code></pre><p>Now I go to my github account page and hit &ldquo;New Repository&rdquo;, then type in a name and hit create.
+Back to the terminal:</p>
+<pre><code>git remote add origin &lt;url to .git&gt;
+git push -u origin master
+
+git add *
+git commit -m “&lt;message&gt;”
+git push
+</code></pre><p>To save myself some time, I added the following line to my <code>.bashrc</code> file, or your <code>.zshrc</code> file if you are that way inclined.</p>
+<pre><code>gacp () { git add * &amp;&amp; git commit -m &quot;$1&quot; &amp;&amp; git push;}
+</code></pre></div>
+
+  </article>
+</main>
+<footer>
+  <div>
+    <div>© 2020 Eoghan - <a href="https://github.com/IdlePhysicist">GitHub</a> - <a href="https://gitlab.com/IdlePhysicist">GitLab</a></div>
+  </div>
+</footer>
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-119867334-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+</body>
+</html>

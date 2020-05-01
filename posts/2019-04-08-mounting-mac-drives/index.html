@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>#11 - Mounting Macintosh Drife - IdlePhysicist</title>
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+<header>
+  <div>
+    <h1><a href="https://eoghan.speleo.dev">IdlePhysicist</a></h1>
+  </div>
+  <nav><a href="/tags/">Tags</a><a href="/programming/">Programming</a><a href="/caving/">Caving Logs</a><a href="/about/">About Me</a></nav>
+</header>
+<main>
+  <article>
+    <div class="title">
+  <h1>#11 - Mounting Macintosh Drives</h1>
+  </div>
+<div class="meta">
+  <div>2019-04-08 19:17</div>
+  <div>
+    <span><a href="/tags/osx">#OSX</a></span>
+    </div>
+  </div>
+<div class="content">
+  <p>So this March I decided it was time to give my MacBook Pro a new lease of life. It still had its original 500GB HDD that it had come with. I had not updated my version of OS X since Yosemite in 2015, and that is because I used Apple&rsquo;s Aperture for processing my photographs and Yosemite was the last version of OS X to support Aperture. This of course had the knock on effect of making it harder and harder to use <a href="brew.sh">HomeBrew</a> as time wore on.</p>
+<p>So in a bout of frustration I went out and decided to buy an SSD with the idea being that I could swap my HDD out do a fresh install of MacOS, as it is now, and if worst came to worst and I wanted Aperture back then I could wipe the SSD and clone the old HDD to it.</p>
+<p>The install of Mojave took a scenic route via Mountain Lion (yes you read that correctly), but the fun came when I tried to load my old HDD as an external drive. Strangely my MacBook couldn&rsquo;t mount the drive. I happened to be at work while I was trying to do this, and my colleague suggested putting it into his Ubunutu workstation to see if it showed up. One <code>apt-get install hfsprogs</code> later and we could see the system and the partitions that my Macs (personal &amp; work) say don&rsquo;t exist. Later we tried to mount it using an Arch workstation and the SATA to USB adapter I had borrowed for the task, and it couldn&rsquo;t be mounted.</p>
+<p>We then decided that we should clone the drive before messing with it any further, to do that we pulled out my old Debian workstation, and put an Arch live USB in it and, when saw that the three partitions were showing up there we decided to try an mount the drive. We had some limited constraints from the live USB, and needed to do some arithmetic and sector counting in order to be able to mount the drive.</p>
+<p>It was <a href="https://superuser.com/questions/961401/mounting-hfs-partition-on-arch-linux">this superuser article</a> that enabled us to figure out what the hell was going on and how to mount the drive on Arch. We needed to calculate N, the volume size of what&rsquo;s to be mounted.</p>
+<p>[
+N = logicalSectorSize \times sizeOfTheVolume
+]</p>
+<p>We do that by getting the logical sector size from <code>fdisk</code> and the size of the volume from <code>testdisk</code></p>
+<h3 id="flow">Flow</h3>
+<ul>
+<li><code>fdisk -l /dev/sda</code> Get the logical sector size</li>
+<li><code>testdisk /dev/sda</code>
+<ul>
+<li>Select <code>EFI GPT</code></li>
+<li>Select <code>Analyse</code></li>
+<li>Then <code>Quick Search</code> Note down the size in sectors of <code>sda2</code>.</li>
+</ul>
+</li>
+<li><code>mount -t hfsplus -o ro,sizelimit=N /dev/sda2 /Volumes</code></li>
+</ul>
+</div>
+
+  </article>
+</main>
+<footer>
+  <div>
+    <div>© 2020 Eoghan - <a href="https://github.com/IdlePhysicist">GitHub</a> - <a href="https://gitlab.com/IdlePhysicist">GitLab</a></div>
+  </div>
+</footer>
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-119867334-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\[', '\]']],
+        processEscapes: true,
+        processEnvironments: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        TeX: {
+          equationNumbers: { autoNumber: "AMS" },
+          extensions: ["AMSmath.js", "AMSsymbols.js"]
+        }
+      }
+    });
+    MathJax.Hub.Queue(function () {
+      
+      
+      
+      var all = MathJax.Hub.getAllJax(), i;
+      for (i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+      }
+    });
+
+    MathJax.Hub.Config({
+      
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+    });
+</script>
+</body>
+</html>
