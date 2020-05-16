@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>#16 - Homebrew Formula for Therion</title>
+      <link>https://eoghan.speleo.dev/posts/2020-05-16-homebrew-therion/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/posts/2020-05-16-homebrew-therion/</guid>
+      <description>Get the formula here
+I had used a Homebrew formula to install Therion in the past, but at some point I migrated to building it from source. I very rarely used Therion for anything other than messing around because I did not have the opportunities to do much surveying and when I did I was not in charge of handling the data. I mainly built Therion from source to challenge myself.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://eoghan.speleo.dev/about/</link>
       <pubDate>Thu, 30 Apr 2020 21:49:54 +0100</pubDate>

@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
     <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist)</copyright>
-    <lastBuildDate>Mon, 22 Apr 2019 20:26:45 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://eoghan.speleo.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#16 - Homebrew Formula for Therion</title>
+      <link>https://eoghan.speleo.dev/posts/2020-05-16-homebrew-therion/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/posts/2020-05-16-homebrew-therion/</guid>
+      <description>Get the formula here
+I had used a Homebrew formula to install Therion in the past, but at some point I migrated to building it from source. I very rarely used Therion for anything other than messing around because I did not have the opportunities to do much surveying and when I did I was not in charge of handling the data. I mainly built Therion from source to challenge myself.</description>
+    </item>
     
     <item>
       <title>#15 - Pandoc &#43; Latex Template</title>

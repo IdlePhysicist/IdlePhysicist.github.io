@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://eoghan.speleo.dev/posts/2020-05-16-homebrew-therion/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eoghan.speleo.dev/posts/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eoghan.speleo.dev/about/</loc>
     <lastmod>2020-04-30T21:49:54+01:00</lastmod>
   </url>
@@ -79,11 +89,6 @@
   
   <url>
     <loc>https://eoghan.speleo.dev/tags/pandoc/</loc>
-    <lastmod>2019-04-22T20:26:45-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eoghan.speleo.dev/posts/</loc>
     <lastmod>2019-04-22T20:26:45-06:00</lastmod>
   </url>
   
