@@ -19,25 +19,25 @@
   <h1>Tags</h1>
 </div>
 <ul>
-  <li>2019-11-10 00:00 - <a href="https://eoghan.speleo.dev/tags/caving/">Caving</a></li>
-  <li>2019-11-10 00:00 - <a href="https://eoghan.speleo.dev/tags/programming/">Programming</a></li>
-  <li>2019-10-03 00:00 - <a href="https://eoghan.speleo.dev/tags/tools/">Tools</a></li>
-  <li>2019-04-22 20:26 - <a href="https://eoghan.speleo.dev/tags/latex/">LaTeX</a></li>
-  <li>2019-04-22 20:26 - <a href="https://eoghan.speleo.dev/tags/pandoc/">Pandoc</a></li>
-  <li>2019-04-08 19:26 - <a href="https://eoghan.speleo.dev/tags/linux/">Linux</a></li>
-  <li>2019-04-08 19:26 - <a href="https://eoghan.speleo.dev/tags/osx/">OSX</a></li>
-  <li>2019-02-02 21:57 - <a href="https://eoghan.speleo.dev/tags/physics/">Physics</a></li>
-  <li>2019-01-25 00:00 - <a href="https://eoghan.speleo.dev/tags/gui/">GUI</a></li>
-  <li>2018-09-29 19:15 - <a href="https://eoghan.speleo.dev/tags/exploring/">Exploring</a></li>
-  <li>2018-09-01 17:15 - <a href="https://eoghan.speleo.dev/tags/review/">Review</a></li>
-  <li>2018-08-12 17:15 - <a href="https://eoghan.speleo.dev/tags/julia/">Julia</a></li>
-  <li>2018-03-23 21:37 - <a href="https://eoghan.speleo.dev/tags/electronics/">Electronics</a></li>
-  <li>2018-03-23 21:37 - <a href="https://eoghan.speleo.dev/tags/reference/">Reference</a></li>
-  <li>2018-02-09 22:57 - <a href="https://eoghan.speleo.dev/tags/history/">History</a></li>
-  <li>2018-02-09 22:57 - <a href="https://eoghan.speleo.dev/tags/nerdyness/">Nerdyness</a></li>
-  <li>2018-02-09 21:57 - <a href="https://eoghan.speleo.dev/tags/git/">Git</a></li>
-  <li>2017-06-03 21:57 - <a href="https://eoghan.speleo.dev/tags/mathematics/">Mathematics</a></li>
-  <li>2016-11-04 00:00 - <a href="https://eoghan.speleo.dev/tags/gis/">GIS</a></li>
+  <li>2019-11-10 - <a href="https://eoghan.speleo.dev/tags/caving/">Caving</a></li>
+  <li>2019-11-10 - <a href="https://eoghan.speleo.dev/tags/programming/">Programming</a></li>
+  <li>2019-10-03 - <a href="https://eoghan.speleo.dev/tags/tools/">Tools</a></li>
+  <li>2019-04-22 - <a href="https://eoghan.speleo.dev/tags/latex/">LaTeX</a></li>
+  <li>2019-04-22 - <a href="https://eoghan.speleo.dev/tags/pandoc/">Pandoc</a></li>
+  <li>2019-04-08 - <a href="https://eoghan.speleo.dev/tags/linux/">Linux</a></li>
+  <li>2019-04-08 - <a href="https://eoghan.speleo.dev/tags/osx/">OSX</a></li>
+  <li>2019-02-02 - <a href="https://eoghan.speleo.dev/tags/physics/">Physics</a></li>
+  <li>2019-01-25 - <a href="https://eoghan.speleo.dev/tags/gui/">GUI</a></li>
+  <li>2018-09-29 - <a href="https://eoghan.speleo.dev/tags/exploring/">Exploring</a></li>
+  <li>2018-09-01 - <a href="https://eoghan.speleo.dev/tags/review/">Review</a></li>
+  <li>2018-08-12 - <a href="https://eoghan.speleo.dev/tags/julia/">Julia</a></li>
+  <li>2018-03-23 - <a href="https://eoghan.speleo.dev/tags/electronics/">Electronics</a></li>
+  <li>2018-03-23 - <a href="https://eoghan.speleo.dev/tags/reference/">Reference</a></li>
+  <li>2018-02-09 - <a href="https://eoghan.speleo.dev/tags/history/">History</a></li>
+  <li>2018-02-09 - <a href="https://eoghan.speleo.dev/tags/nerdyness/">Nerdyness</a></li>
+  <li>2018-02-09 - <a href="https://eoghan.speleo.dev/tags/git/">Git</a></li>
+  <li>2017-06-03 - <a href="https://eoghan.speleo.dev/tags/mathematics/">Mathematics</a></li>
+  <li>2016-11-04 - <a href="https://eoghan.speleo.dev/tags/gis/">GIS</a></li>
   </ul>
 
 
@@ -60,5 +60,34 @@ if (!doNotTrack) {
 }
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
-</body>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\[', '\]']],
+        processEscapes: true,
+        processEnvironments: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        TeX: {
+          equationNumbers: { autoNumber: "AMS" },
+          extensions: ["AMSmath.js", "AMSsymbols.js"]
+        }
+      }
+    });
+    MathJax.Hub.Queue(function () {
+      
+      
+      
+      var all = MathJax.Hub.getAllJax(), i;
+      for (i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+      }
+    });
+
+    MathJax.Hub.Config({
+      
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+    });
+</script></body>
 </html>

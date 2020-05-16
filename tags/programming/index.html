@@ -19,15 +19,15 @@
   <h1>Programming</h1>
 </div>
 <ul>
-  <li>2019-11-10 00:00 - <a href="https://eoghan.speleo.dev/programming/2017-12-03-cave-logger/">Cave Logger</a></li>
-  <li>2019-10-03 00:00 - <a href="https://eoghan.speleo.dev/programming/2019-10-03-go-latex/">Go-LaTeX</a></li>
-  <li>2019-03-02 00:00 - <a href="https://eoghan.speleo.dev/programming/2019-03-02-pdfsplit/">PDF Split</a></li>
-  <li>2019-02-28 00:00 - <a href="https://eoghan.speleo.dev/programming/2019-02-28-csv2json/">CSV2JSON</a></li>
-  <li>2019-01-25 00:00 - <a href="https://eoghan.speleo.dev/programming/2019-01-25-fuelometer/">Fuelometer</a></li>
-  <li>2018-08-12 17:15 - <a href="https://eoghan.speleo.dev/posts/2018-08-12-julia-plotting/">#7 - Plotting in Julia (using Python)</a></li>
-  <li>2018-05-27 22:57 - <a href="https://eoghan.speleo.dev/posts/2018-05-27-compile-script/">#6 - Compile Scripts</a></li>
-  <li>2018-02-09 21:57 - <a href="https://eoghan.speleo.dev/posts/2018-02-09-git-tutorial/">#2 - Git Tutorial / Commands</a></li>
-  <li>2016-11-04 00:00 - <a href="https://eoghan.speleo.dev/programming/2016-11-04-coffee-socket/">Coffee Socket</a></li>
+  <li>2019-11-10 - <a href="https://eoghan.speleo.dev/programming/2017-12-03-cave-logger/">Cave Logger</a></li>
+  <li>2019-10-03 - <a href="https://eoghan.speleo.dev/programming/2019-10-03-go-latex/">Go-LaTeX</a></li>
+  <li>2019-03-02 - <a href="https://eoghan.speleo.dev/programming/2019-03-02-pdfsplit/">PDF Split</a></li>
+  <li>2019-02-28 - <a href="https://eoghan.speleo.dev/programming/2019-02-28-csv2json/">CSV2JSON</a></li>
+  <li>2019-01-25 - <a href="https://eoghan.speleo.dev/programming/2019-01-25-fuelometer/">Fuelometer</a></li>
+  <li>2018-08-12 - <a href="https://eoghan.speleo.dev/posts/2018-08-12-julia-plotting/">#9 - Plotting in Julia (using Python)</a></li>
+  <li>2018-05-27 - <a href="https://eoghan.speleo.dev/posts/2018-05-27-compile-script/">#8 - Compile Scripts</a></li>
+  <li>2018-02-09 - <a href="https://eoghan.speleo.dev/posts/2018-02-09-git-tutorial/">#4 - Git Tutorial / Commands</a></li>
+  <li>2016-11-04 - <a href="https://eoghan.speleo.dev/programming/2016-11-04-coffee-socket/">Coffee Socket</a></li>
   </ul>
 
 
@@ -50,5 +50,34 @@ if (!doNotTrack) {
 }
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
-</body>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\[', '\]']],
+        processEscapes: true,
+        processEnvironments: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        TeX: {
+          equationNumbers: { autoNumber: "AMS" },
+          extensions: ["AMSmath.js", "AMSsymbols.js"]
+        }
+      }
+    });
+    MathJax.Hub.Queue(function () {
+      
+      
+      
+      var all = MathJax.Hub.getAllJax(), i;
+      for (i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+      }
+    });
+
+    MathJax.Hub.Config({
+      
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+    });
+</script></body>
 </html>

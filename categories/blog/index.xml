@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>#12 - Screen Cheatsheet</title>
+      <title>#14 - Screen Cheatsheet</title>
       <link>https://eoghan.speleo.dev/posts/2019-04-08-screen-cheat/</link>
       <pubDate>Mon, 08 Apr 2019 19:26:45 -0600</pubDate>
       
@@ -28,7 +28,7 @@ Execute a command in a screen session: screen -X -S PID_OF_SCREEN_SESSION &amp;l
     </item>
     
     <item>
-      <title>#11 - Mounting Macintosh Drives</title>
+      <title>#13 - Mounting Macintosh Drives</title>
       <link>https://eoghan.speleo.dev/posts/2019-04-08-mounting-mac-drives/</link>
       <pubDate>Mon, 08 Apr 2019 19:17:45 -0600</pubDate>
       
@@ -37,7 +37,7 @@ Execute a command in a screen session: screen -X -S PID_OF_SCREEN_SESSION &amp;l
     </item>
     
     <item>
-      <title>#10 - Why do I descend faster the further I get down a pitch?</title>
+      <title>#12 - Why do I descend faster the further I get down a pitch?</title>
       <link>https://eoghan.speleo.dev/posts/2019-03-02-descend-faster/</link>
       <pubDate>Sat, 02 Feb 2019 21:57:45 +0100</pubDate>
       
@@ -48,7 +48,7 @@ Execute a command in a screen session: screen -X -S PID_OF_SCREEN_SESSION &amp;l
     </item>
     
     <item>
-      <title>#9 - Cloghleagh Mine, 1862-1868</title>
+      <title>#11 - Cloghleagh Mine, 1862-1868</title>
       <link>https://eoghan.speleo.dev/posts/2018-09-29-cloghleagh/</link>
       <pubDate>Sat, 29 Sep 2018 19:15:45 +0100</pubDate>
       
@@ -57,7 +57,7 @@ Execute a command in a screen session: screen -X -S PID_OF_SCREEN_SESSION &amp;l
     </item>
     
     <item>
-      <title>#8 - The Nokia 3310 3G</title>
+      <title>#10 - The Nokia 3310 3G</title>
       <link>https://eoghan.speleo.dev/posts/2018-09-01-nokia-3310/</link>
       <pubDate>Sat, 01 Sep 2018 17:15:45 +0100</pubDate>
       
@@ -67,7 +67,7 @@ To put this in perspective Apple announced the first iPhone in January 2007. In 
     </item>
     
     <item>
-      <title>#7 - Plotting in Julia (using Python)</title>
+      <title>#9 - Plotting in Julia (using Python)</title>
       <link>https://eoghan.speleo.dev/posts/2018-08-12-julia-plotting/</link>
       <pubDate>Sun, 12 Aug 2018 17:15:45 +0100</pubDate>
       
@@ -78,7 +78,7 @@ Below is an example to generate a Hertzsprung–Russell diagram.
     </item>
     
     <item>
-      <title>#6 - Compile Scripts</title>
+      <title>#8 - Compile Scripts</title>
       <link>https://eoghan.speleo.dev/posts/2018-05-27-compile-script/</link>
       <pubDate>Sun, 27 May 2018 22:57:45 +0100</pubDate>
       
@@ -87,7 +87,7 @@ Below is an example to generate a Hertzsprung–Russell diagram.
     </item>
     
     <item>
-      <title>#5 - Verifying...</title>
+      <title>#7 - Verifying...</title>
       <link>https://eoghan.speleo.dev/posts/2018-05-27-verifying/</link>
       <pubDate>Sun, 27 May 2018 16:57:45 +0100</pubDate>
       
@@ -98,7 +98,7 @@ It might not be the best method to fix the problem but it does do the job.</desc
     </item>
     
     <item>
-      <title>#3 - The Sea Interferometer at Dover Heights, NSW</title>
+      <title>#5 - The Sea Interferometer at Dover Heights, NSW</title>
       <link>https://eoghan.speleo.dev/posts/2018-02-09-sea-interferometer/</link>
       <pubDate>Fri, 09 Feb 2018 22:57:45 +0100</pubDate>
       
@@ -107,7 +107,7 @@ It might not be the best method to fix the problem but it does do the job.</desc
     </item>
     
     <item>
-      <title>#2 - Git Tutorial / Commands</title>
+      <title>#4 - Git Tutorial / Commands</title>
       <link>https://eoghan.speleo.dev/posts/2018-02-09-git-tutorial/</link>
       <pubDate>Fri, 09 Feb 2018 21:57:45 +0100</pubDate>
       
@@ -119,7 +119,7 @@ git remote add origin &amp;lt;url to .git&amp;gt; git push -u origin master git 
     </item>
     
     <item>
-      <title>#1 - What the hell is with Simultaneous Equations?</title>
+      <title>#3 - What the hell is with Simultaneous Equations?</title>
       <link>https://eoghan.speleo.dev/posts/2017-06-03-what-the-hell-is-with-simultaneous-equations/</link>
       <pubDate>Sat, 03 Jun 2017 21:57:45 +0100</pubDate>
       

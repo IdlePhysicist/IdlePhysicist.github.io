@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>#13 - Pandoc &#43; Latex Template - IdlePhysicist</title>
+<title>#15 - Pandoc &#43; Latex Template - IdlePhysicist</title>
 <link rel="stylesheet" type="text/css" href="https://eoghan.speleo.dev/css/main.css">
 </head>
 <body>
@@ -16,10 +16,10 @@
 <main>
   <article>
     <div class="title">
-  <h1>#13 - Pandoc &#43; Latex Template</h1>
+  <h1>#15 - Pandoc &#43; Latex Template</h1>
   </div>
 <div class="meta">
-  <div>2019-04-22 20:26</div>
+  <div>Last Updated: 2019-04-22 20:26</div>
   <div>
     <span><a href="https://eoghan.speleo.dev/tags/latex">#LaTeX</a></span>
     <span><a href="https://eoghan.speleo.dev/tags/pandoc">#Pandoc</a></span>
@@ -59,5 +59,34 @@ if (!doNotTrack) {
 }
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
-</body>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\[', '\]']],
+        processEscapes: true,
+        processEnvironments: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        TeX: {
+          equationNumbers: { autoNumber: "AMS" },
+          extensions: ["AMSmath.js", "AMSsymbols.js"]
+        }
+      }
+    });
+    MathJax.Hub.Queue(function () {
+      
+      
+      
+      var all = MathJax.Hub.getAllJax(), i;
+      for (i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+      }
+    });
+
+    MathJax.Hub.Config({
+      
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+    });
+</script></body>
 </html>
