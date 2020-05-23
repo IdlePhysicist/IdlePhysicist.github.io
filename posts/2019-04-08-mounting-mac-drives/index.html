@@ -11,7 +11,7 @@
   <div>
     <h1><a href="https://eoghan.speleo.dev">IdlePhysicist</a></h1>
   </div>
-  <nav><a href="https://eoghan.speleo.dev/tags/">Tags</a><a href="https://eoghan.speleo.dev/programming/">Programming</a><a href="https://eoghan.speleo.dev/caving/">Caving Logs</a><a href="https://eoghan.speleo.dev/about/">About Me</a></nav>
+  <nav><a href="https://eoghan.speleo.dev/tags/">Tags</a><a href="https://eoghan.speleo.dev/programming/">Programming</a><a href="https://eoghan.speleo.dev/caving/">Caving Logs</a><a href="https://eoghan.speleo.dev/photos/">Photos</a><a href="https://eoghan.speleo.dev/about/">About Me</a></nav>
 </header>
 <main>
   <article>
@@ -52,16 +52,17 @@ N = logicalSectorSize \times sizeOfTheVolume
 </main>
 <footer>
   <div>
-    <div>© 2020 Eoghan - <a href="https://github.com/IdlePhysicist">GitHub</a> - <a href="https://gitlab.com/IdlePhysicist">GitLab</a></div>
+    <div>© 2020 Eoghan - <a href="https://github.com/IdlePhysicist">GitHub</a> - <a href="https://gitlab.com/IdlePhysicist">GitLab</a> - <a href="index.xml">RSS</a></div>
   </div>
 </footer>
 
 <script type="application/javascript">
-var doNotTrack = false;
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
 if (!doNotTrack) {
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 	ga('create', 'UA-119867334-1', 'auto');
-	
+	ga('set', 'anonymizeIp', true);
 	ga('send', 'pageview');
 }
 </script>
