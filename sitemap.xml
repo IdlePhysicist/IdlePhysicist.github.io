@@ -3,13 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eoghan.speleo.dev/</loc>
-    <lastmod>2020-05-23T16:43:54+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://eoghan.speleo.dev/photos/</loc>
     <lastmod>2020-05-23T16:43:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -19,6 +12,13 @@
   <url>
     <loc>https://eoghan.speleo.dev/posts/2020-05-16-homebrew-therion/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eoghan.speleo.dev/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -60,35 +60,35 @@
   
   <url>
     <loc>https://eoghan.speleo.dev/programming/2017-12-03-cave-logger/</loc>
-    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://eoghan.speleo.dev/tags/caving/</loc>
-    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://eoghan.speleo.dev/tags/programming/</loc>
-    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://eoghan.speleo.dev/programming/</loc>
-    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://eoghan.speleo.dev/tags/</loc>
-    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -18,11 +18,10 @@
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://eoghan.speleo.dev/programming/2017-12-03-cave-logger/</guid>
-      <description>Cave Logger Repo
+      <description>GitHub: cave-logger | Homebrew Tap: idlephysicist/caving
 Background I used to keep track of what caves I have visited (and who I go with) using an Excel Workbook. I decided (in 2017) to write a program to do this for me because why not ?!
 Come 2019, I started to use Go at work, and I finally go around to looking at this project again.
- A screen shot of cave-logger
-  Functionality The app is fairly basic, it gives the user the ability to create, update and delete entries for trips, cavers, and caves.</description>
+ A screen shot of cave-logger v1.</description>
     </item>
     
     <item>
@@ -31,7 +30,7 @@ Come 2019, I started to use Go at work, and I finally go around to looking at th
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://eoghan.speleo.dev/programming/2019-10-03-go-latex/</guid>
-      <description>go-latex Repo
+      <description>GitHub: go-latex
 I had an idea to use some Unicode characters in my Go projects, particularly ones that are physics or calculation based projects. But I personally did not want to have to either copy and paste the unicode characters or have to manually type in the unicodes for the various characters.
 So I devised a solution, which was to write a simple parser that would regex out LaTeX commands for Greek letters and insert the correct character from a map stored within the application binary.</description>
     </item>
@@ -42,8 +41,8 @@ So I devised a solution, which was to write a simple parser that would regex out
       <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://eoghan.speleo.dev/programming/2019-03-02-pdfsplit/</guid>
-      <description>PDF Split Repo
-I saw someone painstakingly exporting pages of a large PDF document manually to get smaller individual PDFs, containing ranges of pages from the parent document. I thought &amp;ldquo;Hey I could definitely make that easier!&amp;quot;, so I sat down for a couple of hours and wrote a very short script to act as a middleman between the user and GhostScript.</description>
+      <description>GitHub: PDF Split
+I saw someone painstakingly exporting pages of a large PDF document manually to get smaller individual PDFs, containing ranges of pages from the parent document. I thought &amp;ldquo;Hey I could definitely make that easier!&amp;rdquo;, so I sat down for a couple of hours and wrote a very short script to act as a middleman between the user and GhostScript.</description>
     </item>
     
     <item>
@@ -52,7 +51,7 @@ I saw someone painstakingly exporting pages of a large PDF document manually to 
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://eoghan.speleo.dev/programming/2019-02-28-csv2json/</guid>
-      <description>csv2json Repo
+      <description>GitHub: csv2json
 Caution This is another quickly thrown together project that may have unintended results, and a perhaps more reliable program could be put together in Python in half the lines &amp;amp; a quarter the time. But it was to be a learning experience!
 In work a couple of weeks ago I came upon a task that I thought could be made easier by having a JSON file to parse instead of a csv file, and I had a hankering to write some Go after been stuck on Python projects for months.</description>
     </item>
@@ -63,7 +62,7 @@ In work a couple of weeks ago I came upon a task that I thought could be made ea
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://eoghan.speleo.dev/programming/2019-01-25-fuelometer/</guid>
-      <description>Fuelometer Repo
+      <description>GitHub: Fuelometer
 I wanted to keep track of my fuel consumption so I wrote a little app to do it. It&amp;rsquo;s my first GUI application, using PyQt5. I store the data in a SQLite database.
 Note there are three branches of the code, this is only a prototype there will be bugs &amp;amp; the numbers may be invalid!
   </description>
