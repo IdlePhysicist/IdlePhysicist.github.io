@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>#4 - Git Tutorial / Commands - IdlePhysicist</title>
+<link rel="stylesheet" type="text/css" href="https://eoghan.speleo.dev/css/main.css">
+</head>
+<body>
+<header>
+  <div>
+    <h1><a href="https://eoghan.speleo.dev">IdlePhysicist</a></h1>
+  </div>
+  <nav><a href="https://eoghan.speleo.dev/tags/">Tags</a><a href="https://eoghan.speleo.dev/programming/">Programming</a><a href="https://eoghan.speleo.dev/caving/">Caving Logs</a><a href="https://eoghan.speleo.dev/photos/">Photos</a><a href="https://eoghan.speleo.dev/about/">About Me</a></nav>
+</header>
+<main>
+  <article>
+    <div class="title">
+  <h1>#4 - Git Tutorial / Commands</h1>
+  </div>
+<div class="meta">
+  <div>Last Updated: 2018-02-09</div>
+  <div>
+    <span><a href="https://eoghan.speleo.dev/tags/git">#Git</a></span>
+    <span><a href="https://eoghan.speleo.dev/tags/programming">#Programming</a></span>
+    </div>
+  </div>
+<div class="content">
+  <p>Git is a program used for version control through <a href="www.github.com">github.com</a>.</p>
+<p>So here are the steps I use to create a repository:</p>
+<pre><code>git init
+echo &quot;# &lt;Repo Name&gt;&quot; &gt;&gt; README.md
+git add README.md
+git commit -m &quot;1st Commit&quot;
+</code></pre><p>Now I go to my github account page and hit &ldquo;New Repository&rdquo;, then type in a name and hit create.
+Back to the terminal:</p>
+<pre><code>git remote add origin &lt;url to .git&gt;
+git push -u origin master
+
+git add *
+git commit -m “&lt;message&gt;”
+git push
+</code></pre><p>To save myself some time, I added the following line to my <code>.bashrc</code> file, or your <code>.zshrc</code> file if you are that way inclined.</p>
+<pre><code>gacp () { git add * &amp;&amp; git commit -m &quot;$1&quot; &amp;&amp; git push;}
+</code></pre></div>
+
+  </article>
+</main>
+<footer>
+  <div>
+    <div>© 2020 Eoghan - <a href="https://code.speleo.dev">Gitea</a> - <a href="https://github.com/IdlePhysicist">GitHub</a> - <a href="https://gitlab.com/IdlePhysicist">GitLab</a> - <a href="index.xml">RSS</a></div>
+  </div>
+</footer>
+
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-119867334-1', 'auto');
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\[', '\]']],
+        processEscapes: true,
+        processEnvironments: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        TeX: {
+          equationNumbers: { autoNumber: "AMS" },
+          extensions: ["AMSmath.js", "AMSsymbols.js"]
+        }
+      }
+    });
+    MathJax.Hub.Queue(function () {
+      
+      
+      
+      var all = MathJax.Hub.getAllJax(), i;
+      for (i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+      }
+    });
+
+    MathJax.Hub.Config({
+      
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+    });
+</script></body>
+</html>

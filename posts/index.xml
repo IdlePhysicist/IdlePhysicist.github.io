@@ -6,7 +6,7 @@
     <description>Recent content in Posts on IdlePhysicist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
-    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
+    <copyright>© 2020 Eoghan - [Gitea](https://code.speleo.dev) - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
     <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://eoghan.speleo.dev/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -14,29 +14,29 @@
     
     <item>
       <title>#16 - Homebrew Formula for Therion</title>
-      <link>https://eoghan.speleo.dev/posts/2020-05-16-homebrew-therion/</link>
+      <link>https://eoghan.speleo.dev/posts/2020/homebrew-therion/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2020-05-16-homebrew-therion/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2020/homebrew-therion/</guid>
       <description>Get the formula here
 I had used a Homebrew formula to install Therion in the past, but at some point I migrated to building it from source. I very rarely used Therion for anything other than messing around because I did not have the opportunities to do much surveying and when I did I was not in charge of handling the data. I mainly built Therion from source to challenge myself.</description>
     </item>
     
     <item>
       <title>#15 - Pandoc &#43; Latex Template</title>
-      <link>https://eoghan.speleo.dev/posts/2019-05-24-latex-template/</link>
+      <link>https://eoghan.speleo.dev/posts/2019/latex-template/</link>
       <pubDate>Mon, 22 Apr 2019 20:26:45 -0600</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2019-05-24-latex-template/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2019/latex-template/</guid>
       <description>Sigh this one was a real piece of work. So as you may know I document my caving adventures in a log, each month has a log entry. Until recently I used the app Ulysses to export my logs using a template I got from their website. When I upgraded my MacBook to an SSD, I looked for something new, since I don&amp;rsquo;t quite agree with the subscription model that they have adopted.</description>
     </item>
     
     <item>
       <title>#14 - Screen Cheatsheet</title>
-      <link>https://eoghan.speleo.dev/posts/2019-04-08-screen-cheat/</link>
+      <link>https://eoghan.speleo.dev/posts/2019/screen-cheat/</link>
       <pubDate>Mon, 08 Apr 2019 19:26:45 -0600</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2019-04-08-screen-cheat/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2019/screen-cheat/</guid>
       <description>Install Screen: brew install screen
 Enter a new Screen Session: screen or screen -S &amp;lt;name&amp;gt;
 Detach from current screen session: Ctrl + a + d
@@ -48,19 +48,19 @@ Execute a command in a screen session: screen -X -S PID_OF_SCREEN_SESSION &amp;l
     
     <item>
       <title>#13 - Mounting Macintosh Drives</title>
-      <link>https://eoghan.speleo.dev/posts/2019-04-08-mounting-mac-drives/</link>
+      <link>https://eoghan.speleo.dev/posts/2019/mounting-mac-drives/</link>
       <pubDate>Mon, 08 Apr 2019 19:17:45 -0600</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2019-04-08-mounting-mac-drives/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2019/mounting-mac-drives/</guid>
       <description>So this March I decided it was time to give my MacBook Pro a new lease of life. It still had its original 500GB HDD that it had come with. I had not updated my version of OS X since Yosemite in 2015, and that is because I used Apple&amp;rsquo;s Aperture for processing my photographs and Yosemite was the last version of OS X to support Aperture. This of course had the knock on effect of making it harder and harder to use HomeBrew as time wore on.</description>
     </item>
     
     <item>
       <title>#12 - Why do I descend faster the further I get down a pitch?</title>
-      <link>https://eoghan.speleo.dev/posts/2019-03-02-descend-faster/</link>
+      <link>https://eoghan.speleo.dev/posts/2019/descend-faster/</link>
       <pubDate>Sat, 02 Feb 2019 21:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2019-03-02-descend-faster/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2019/descend-faster/</guid>
       <description>Something I have often noticed while descending pitches in caves is that the further down the pitch/rope I get the faster I am travelling. So I set about using some of my kinematics knowledge to analyse the system and see what is going on.
   Simple, with diagram showing friction points where the rope is in contact with the Simple &amp;amp; braking carabiner
   Firstly I wrote out some potential reasons for this observation.</description>
@@ -68,29 +68,29 @@ Execute a command in a screen session: screen -X -S PID_OF_SCREEN_SESSION &amp;l
     
     <item>
       <title>#11 - Cloghleagh Mine, 1862-1868</title>
-      <link>https://eoghan.speleo.dev/posts/2018-09-29-cloghleagh/</link>
+      <link>https://eoghan.speleo.dev/posts/2018/cloghleagh/</link>
       <pubDate>Sat, 29 Sep 2018 19:15:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2018-09-29-cloghleagh/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2018/cloghleagh/</guid>
       <description>I am a believer in “giving it a go”, at least once anyway. So without a cave to survey we found the next best thing. I had known of the Cloghleagh Mine for several years now, but have never really had the chance to explore it. So a few weekends ago, myself and Erin decided to head up and have a look in, we armed ourselves with two helmets, two iPhone compasses, and a 10’ measuring tape.</description>
     </item>
     
     <item>
       <title>#10 - The Nokia 3310 3G</title>
-      <link>https://eoghan.speleo.dev/posts/2018-09-01-nokia-3310/</link>
+      <link>https://eoghan.speleo.dev/posts/2018/nokia-3310/</link>
       <pubDate>Sat, 01 Sep 2018 17:15:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2018-09-01-nokia-3310/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2018/nokia-3310/</guid>
       <description>The Nokia 3310 has been a staple of internet culture for many years now, predominantly due to the robustness of the handset and longevity of the battery. The renowned 3310 was killed off by Nokia in 2006 in a changing market, after selling 126 million units.
 To put this in perspective Apple announced the first iPhone in January 2007. In the time from the first iPhone launch to March 2017, Apple released 16 separate devices under the iPhone name (up to the 7 &amp;amp; 7+), totalling 1.</description>
     </item>
     
     <item>
       <title>#9 - Plotting in Julia (using Python)</title>
-      <link>https://eoghan.speleo.dev/posts/2018-08-12-julia-plotting/</link>
+      <link>https://eoghan.speleo.dev/posts/2018/julia-plotting/</link>
       <pubDate>Sun, 12 Aug 2018 17:15:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2018-08-12-julia-plotting/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2018/julia-plotting/</guid>
       <description>The first step is to have Julia installed as well as a plotting library. I chose to use PyPlot as it uses Matplotlib which I am used to from Python. Install PyPlot using Pkg.add(&amp;quot;PyPlot&amp;quot;) at the Julia prompt.
 Below is an example to generate a Hertzsprung–Russell diagram.
 # Reading in some data. data = readdlm(&amp;#34;stars.txt&amp;#34;,&amp;#39; &amp;#39;) temperature = data[:,1] magnitude = data[:,2] # Call the plotting library as below using PyPlot figure(1,figsize=(6,6)) rc(&amp;#34;font&amp;#34;, family=&amp;#34;sans&amp;#34;) rc(&amp;#34;xtick&amp;#34;, labelsize=&amp;#34;small&amp;#34;) rc(&amp;#34;ytick&amp;#34;, labelsize=&amp;#34;small&amp;#34;) scatter(temperature,magnitude,linewidth=2) #ylim(0,0.</description>
@@ -98,19 +98,19 @@ Below is an example to generate a Hertzsprung–Russell diagram.
     
     <item>
       <title>#8 - Compile Scripts</title>
-      <link>https://eoghan.speleo.dev/posts/2018-05-27-compile-script/</link>
+      <link>https://eoghan.speleo.dev/posts/2018/compile-script/</link>
       <pubDate>Sun, 27 May 2018 22:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2018-05-27-compile-script/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2018/compile-script/</guid>
       <description>A compile script is a shell script to compile programs which consist of multiple files, and potentially libraries too. In my opinion at least a compile script is a step below a Makefile. I had honestly not heard of such a thing until I was helping a lecturer to test that his old FORTRAN simulation would compile and run on a modern UNIX machine. The purpose of the script was to simply compile all the source files and then link the object files to the executable1.</description>
     </item>
     
     <item>
       <title>#7 - Verifying...</title>
-      <link>https://eoghan.speleo.dev/posts/2018-05-27-verifying/</link>
+      <link>https://eoghan.speleo.dev/posts/2018/verifying/</link>
       <pubDate>Sun, 27 May 2018 16:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2018-05-27-verifying/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2018/verifying/</guid>
       <description>Bang this into the terminal with the name of the app and reopen the guilty app.
 xattr -d com.apple.quarantine /Applications/&amp;lt;App Name&amp;gt;.app
 It might not be the best method to fix the problem but it does do the job.</description>
@@ -118,28 +118,28 @@ It might not be the best method to fix the problem but it does do the job.</desc
     
     <item>
       <title>#6 - Ceramic Capacitor Markings</title>
-      <link>https://eoghan.speleo.dev/posts/2018-03-23-cap-markings/</link>
+      <link>https://eoghan.speleo.dev/posts/2018/cap-markings/</link>
       <pubDate>Fri, 23 Mar 2018 21:37:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2018-03-23-cap-markings/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2018/cap-markings/</guid>
       <description>A shameless repost from Grathio Labs. The document lists the values for capacitor markings.</description>
     </item>
     
     <item>
       <title>#5 - The Sea Interferometer at Dover Heights, NSW</title>
-      <link>https://eoghan.speleo.dev/posts/2018-02-09-sea-interferometer/</link>
+      <link>https://eoghan.speleo.dev/posts/2018/sea-interferometer/</link>
       <pubDate>Fri, 09 Feb 2018 22:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2018-02-09-sea-interferometer/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2018/sea-interferometer/</guid>
       <description>Dover Heights was a Second World War RADAR station, taken over by the CSIRO Dept. of Radiophysics after war. CSIRO then repurposed the station for solar observations as well as observations of the first &amp;ldquo;radio stars&amp;rdquo;. For the first 4 years of operation, the station used arrays of Yagi antennae, with ever increasing numbers of elements. 1950 saw the arrival of the first dish antenna, a 4.9m parabolic dish mounted to the roof of the WWII block house.</description>
     </item>
     
     <item>
       <title>#4 - Git Tutorial / Commands</title>
-      <link>https://eoghan.speleo.dev/posts/2018-02-09-git-tutorial/</link>
+      <link>https://eoghan.speleo.dev/posts/2018/git-tutorial/</link>
       <pubDate>Fri, 09 Feb 2018 21:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2018-02-09-git-tutorial/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2018/git-tutorial/</guid>
       <description>Git is a program used for version control through github.com.
 So here are the steps I use to create a repository:
 git init echo &amp;quot;# &amp;lt;Repo Name&amp;gt;&amp;quot; &amp;gt;&amp;gt; README.md git add README.md git commit -m &amp;quot;1st Commit&amp;quot; Now I go to my github account page and hit &amp;ldquo;New Repository&amp;rdquo;, then type in a name and hit create. Back to the terminal:
@@ -148,29 +148,29 @@ git remote add origin &amp;lt;url to .git&amp;gt; git push -u origin master git 
     
     <item>
       <title>#3 - What the hell is with Simultaneous Equations?</title>
-      <link>https://eoghan.speleo.dev/posts/2017-06-03-what-the-hell-is-with-simultaneous-equations/</link>
+      <link>https://eoghan.speleo.dev/posts/2017/what-the-hell-is-with-simultaneous-equations/</link>
       <pubDate>Sat, 03 Jun 2017 21:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2017-06-03-what-the-hell-is-with-simultaneous-equations/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2017/what-the-hell-is-with-simultaneous-equations/</guid>
       <description>NB: In school when we say Simultaneous Equations, we generally mean to say a system of linear equations or a linear system.
 Well it&amp;rsquo;s a fair question! They were always one thing I struggled with in school, but I could usually wrangle the answers for the 2 dimensional set of equations but I could never get the correct answers for a 3 dimensional set of equations. We probably all learnt the same method for solving Simultaneous Equations, or symbos as one teacher in my school referred to them as.</description>
     </item>
     
     <item>
       <title>#2 - Les Paul Jimmy Page Wiring</title>
-      <link>https://eoghan.speleo.dev/posts/2017-05-15-les-paul-50/</link>
+      <link>https://eoghan.speleo.dev/posts/2017/les-paul-50/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2017-05-15-les-paul-50/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2017/les-paul-50/</guid>
       <description>In 2012 I got a Les Paul Studio 50s Tribute, which was a very nice guitar to begin with. In 2016 I bought a Jimmy Page wiring kit on eBay. I altered the wiring from the schematic included with the kit to one with the 1950s wiring style (see below for more information). The first time I tried to wire it up I make a dog&amp;rsquo;s dinner of it, and the guitar didn&amp;rsquo;t work.</description>
     </item>
     
     <item>
       <title>#1 - Stratocaster Wiring</title>
-      <link>https://eoghan.speleo.dev/posts/2017-05-13-strat/</link>
+      <link>https://eoghan.speleo.dev/posts/2017/strat/</link>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2017-05-13-strat/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2017/strat/</guid>
       <description>In 2011, I got a EMG HZ pre-wired scratchplate. It had two passive EMG humbuckers and a master volume &amp;amp; tone. Over time I removed the neck pickup, partially due to lack of use, partially to resemble Phil X&amp;rsquo;s ESP Viper.
 Now (May 2017) that I have become more savvy with a soldering iron, I have rewired the system, retaining only the EMG HZ bridge pickup, and the three way selector switch.</description>
     </item>

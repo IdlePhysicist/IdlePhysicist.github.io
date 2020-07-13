@@ -6,7 +6,7 @@
     <description>Recent content in Nerdyness on IdlePhysicist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
-    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
+    <copyright>© 2020 Eoghan - [Gitea](https://code.speleo.dev) - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
     <lastBuildDate>Fri, 09 Feb 2018 22:57:45 +0100</lastBuildDate>
     
 	<atom:link href="https://eoghan.speleo.dev/tags/nerdyness/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +14,10 @@
     
     <item>
       <title>#5 - The Sea Interferometer at Dover Heights, NSW</title>
-      <link>https://eoghan.speleo.dev/posts/2018-02-09-sea-interferometer/</link>
+      <link>https://eoghan.speleo.dev/posts/2018/sea-interferometer/</link>
       <pubDate>Fri, 09 Feb 2018 22:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2018-02-09-sea-interferometer/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2018/sea-interferometer/</guid>
       <description>Dover Heights was a Second World War RADAR station, taken over by the CSIRO Dept. of Radiophysics after war. CSIRO then repurposed the station for solar observations as well as observations of the first &amp;ldquo;radio stars&amp;rdquo;. For the first 4 years of operation, the station used arrays of Yagi antennae, with ever increasing numbers of elements. 1950 saw the arrival of the first dish antenna, a 4.9m parabolic dish mounted to the roof of the WWII block house.</description>
     </item>
     

@@ -10,7 +10,7 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2020-05-16-homebrew-therion/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2020/homebrew-therion/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -59,7 +59,7 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/programming/2017-12-03-cave-logger/</loc>
+    <loc>https://eoghan.speleo.dev/programming/cave-logger/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -94,7 +94,7 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/programming/2019-10-03-go-latex/</loc>
+    <loc>https://eoghan.speleo.dev/programming/go-latex/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -115,7 +115,7 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2019-05-24-latex-template/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2019/latex-template/</loc>
     <lastmod>2019-04-22T20:26:45-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -136,7 +136,7 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2019-04-08-screen-cheat/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2019/screen-cheat/</loc>
     <lastmod>2019-04-08T19:26:45-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -171,28 +171,28 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2019-04-08-mounting-mac-drives/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2019/mounting-mac-drives/</loc>
     <lastmod>2019-04-08T19:17:45-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/programming/2019-03-02-pdfsplit/</loc>
+    <loc>https://eoghan.speleo.dev/programming/pdfsplit/</loc>
     <lastmod>2019-03-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/programming/2019-02-28-csv2json/</loc>
+    <loc>https://eoghan.speleo.dev/programming/csv2json/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2019-03-02-descend-faster/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2019/descend-faster/</loc>
     <lastmod>2019-02-02T21:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -206,7 +206,7 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/programming/2019-01-25-fuelometer/</loc>
+    <loc>https://eoghan.speleo.dev/programming/fuelometer/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -234,7 +234,7 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2018-09-29-cloghleagh/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2018/cloghleagh/</loc>
     <lastmod>2018-09-29T19:15:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -248,7 +248,7 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2018-09-01-nokia-3310/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2018/nokia-3310/</loc>
     <lastmod>2018-09-01T17:15:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -269,7 +269,7 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2018-08-12-julia-plotting/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2018/julia-plotting/</loc>
     <lastmod>2018-08-12T17:15:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -290,14 +290,14 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2018-05-27-compile-script/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2018/compile-script/</loc>
     <lastmod>2018-05-27T22:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2018-05-27-verifying/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2018/verifying/</loc>
     <lastmod>2018-05-27T16:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -311,7 +311,7 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2018-03-23-cap-markings/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2018/cap-markings/</loc>
     <lastmod>2018-03-23T21:37:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -339,7 +339,7 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2018-02-09-sea-interferometer/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2018/sea-interferometer/</loc>
     <lastmod>2018-02-09T22:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -360,7 +360,7 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2018-02-09-git-tutorial/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2018/git-tutorial/</loc>
     <lastmod>2018-02-09T21:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -388,7 +388,7 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2017-06-03-what-the-hell-is-with-simultaneous-equations/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2017/what-the-hell-is-with-simultaneous-equations/</loc>
     <lastmod>2017-06-03T21:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -402,21 +402,21 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2017-05-15-les-paul-50/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2017/les-paul-50/</loc>
     <lastmod>2017-05-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/posts/2017-05-13-strat/</loc>
+    <loc>https://eoghan.speleo.dev/posts/2017/strat/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/programming/2016-11-04-coffee-socket/</loc>
+    <loc>https://eoghan.speleo.dev/programming/coffee-socket/</loc>
     <lastmod>2016-11-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

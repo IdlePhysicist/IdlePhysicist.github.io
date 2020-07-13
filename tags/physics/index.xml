@@ -6,7 +6,7 @@
     <description>Recent content in Physics on IdlePhysicist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
-    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
+    <copyright>© 2020 Eoghan - [Gitea](https://code.speleo.dev) - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
     <lastBuildDate>Sat, 02 Feb 2019 21:57:45 +0100</lastBuildDate>
     
 	<atom:link href="https://eoghan.speleo.dev/tags/physics/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +14,10 @@
     
     <item>
       <title>#12 - Why do I descend faster the further I get down a pitch?</title>
-      <link>https://eoghan.speleo.dev/posts/2019-03-02-descend-faster/</link>
+      <link>https://eoghan.speleo.dev/posts/2019/descend-faster/</link>
       <pubDate>Sat, 02 Feb 2019 21:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2019-03-02-descend-faster/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2019/descend-faster/</guid>
       <description>Something I have often noticed while descending pitches in caves is that the further down the pitch/rope I get the faster I am travelling. So I set about using some of my kinematics knowledge to analyse the system and see what is going on.
   Simple, with diagram showing friction points where the rope is in contact with the Simple &amp;amp; braking carabiner
   Firstly I wrote out some potential reasons for this observation.</description>
@@ -25,10 +25,10 @@
     
     <item>
       <title>#5 - The Sea Interferometer at Dover Heights, NSW</title>
-      <link>https://eoghan.speleo.dev/posts/2018-02-09-sea-interferometer/</link>
+      <link>https://eoghan.speleo.dev/posts/2018/sea-interferometer/</link>
       <pubDate>Fri, 09 Feb 2018 22:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2018-02-09-sea-interferometer/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2018/sea-interferometer/</guid>
       <description>Dover Heights was a Second World War RADAR station, taken over by the CSIRO Dept. of Radiophysics after war. CSIRO then repurposed the station for solar observations as well as observations of the first &amp;ldquo;radio stars&amp;rdquo;. For the first 4 years of operation, the station used arrays of Yagi antennae, with ever increasing numbers of elements. 1950 saw the arrival of the first dish antenna, a 4.9m parabolic dish mounted to the roof of the WWII block house.</description>
     </item>
     
