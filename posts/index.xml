@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
     <copyright>© 2020 Eoghan - [Gitea](https://code.speleo.dev) - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
-    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://eoghan.speleo.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#17 - Self-hosting Gitea on Amazon Lightsail</title>
+      <link>https://eoghan.speleo.dev/posts/2020/gitea/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/posts/2020/gitea/</guid>
+      <description>I recently took the decision to try my hand at self hosting a Git. I had a few reasons for this:
+ I just wanted to do it, to go through the process of setting up and running a webserver and database. I personally don’t like the new GitHub UI changes. That topic is a can of worms so briefly. I am very fond of the old design and it’s layout.</description>
+    </item>
     
     <item>
       <title>#16 - Homebrew Formula for Therion</title>
