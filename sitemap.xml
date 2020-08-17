@@ -24,13 +24,6 @@
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/photos/</loc>
-    <lastmod>2020-05-23T16:43:54+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://eoghan.speleo.dev/posts/2020/homebrew-therion/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
