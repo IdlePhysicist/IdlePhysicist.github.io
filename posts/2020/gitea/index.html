@@ -19,7 +19,9 @@
   <h1>#17 - Self-hosting Gitea on Amazon Lightsail</h1>
   </div>
 <div class="meta">
-  <div>Last Updated: 2020-07-14</div>
+  <div>Date: 2020-07-14
+  <br>Last Updated: 2020-09-04
+  </div>
   </div>
 <div class="content">
   <p>I recently took the decision to try my hand at self hosting a Git. I had a few reasons for this:</p>
@@ -62,7 +64,7 @@ chmod -R 750 /var/lib/gitea/
 mkdir /etc/gitea
 chown root:git /etc/gitea
 chmod 770 /etc/gitea
-</code></pre><p>Clone the <a href="https://code.speleo.dev/IdlePhysicist/mytea">mytea repo</a>, create your own <code>env.sh</code> from the example provided. Then create a docker network for the backend database.</p>
+</code></pre><p>Clone the <a href="https://github.com/IdlePhysicist/mytea">mytea repo</a>, create your own <code>env.sh</code> from the example provided. Then create a docker network for the backend database.</p>
 <pre><code>docker network create --internal back
 </code></pre><p>Now we can fire up the docker-compose file. Assuming that your DNS records have populated you can navigate to your FQDN and complete the web based installation of Gitea.</p>
 <h3 id="the-following-strictly-pertains-to-the-ssh-access">The following strictly pertains to the SSH access</h3>
@@ -76,13 +78,16 @@ ssh -p 2222 -o StrictHostKeyChecking=no git@127.0.0.1 &quot;SSH_ORIGINAL_COMMAND
 </code></pre><p>Now we need to put the &ldquo;Gitea Host Key&rdquo; into the authorised keys file for the git user, this allows the SSH access to the container.</p>
 <pre><code>sudo -u git bash -c 'echo &quot;no-port-forwarding,no-X11-forwarding,no-agent-forwarding,no-pty $(cat /home/git/.ssh/id_rsa.pub)&quot; &gt;&gt; /var/lib/gitea/git/.ssh/authorized_keys'
 </code></pre><p>Now do a <code>docker-compose restart</code> for good measure, and after you upload an SSH key to your user in Gitea, test with <code>ssh -T git@code.speleo.dev</code>.</p>
+<h2 id="update">Update</h2>
+<p>So after nearly two months of self hosting I&rsquo;ve decided to end the experiment. Unltimately I found that I was still using my GitHub account as much as I had been, with so many open source projects using GitHub it&rsquo;s hard to get away. So in that way it sort of defeated the purpose of hosting my own.</p>
+<p>I have learnt a couple of things from it and I know that I would definitely recommend Gitea to anyone wanting to host their own Git service. I have learnt from this enough Terraform to spin up an Amazon Lightsail, generate a static IP, connect it to the Lightsail, and finally make a DNS record with Gandi pointing the static IP.</p>
 </div>
 
   </article>
 </main>
 <footer>
   <div>
-    <div>© 2020 Eoghan - <a href="https://code.speleo.dev">Gitea</a> - <a href="https://github.com/IdlePhysicist">GitHub</a> - <a href="https://gitlab.com/IdlePhysicist">GitLab</a> - <a href="index.xml">RSS</a></div>
+    <div>© 2020 Eoghan - <a href="https://github.com/IdlePhysicist">GitHub</a> - <a href="https://gitlab.com/IdlePhysicist">GitLab</a> - <a href="index.xml">RSS</a></div>
   </div>
 </footer>
 
