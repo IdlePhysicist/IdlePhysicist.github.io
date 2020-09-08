@@ -65,7 +65,7 @@ Note there are three branches of the code, this is only a prototype there will b
     </item>
     
     <item>
-      <title>#9 - Plotting in Julia (using Python)</title>
+      <title>Plotting in Julia (using Python)</title>
       <link>https://eoghan.speleo.dev/posts/2018/julia-plotting/</link>
       <pubDate>Sun, 12 Aug 2018 17:15:45 +0100</pubDate>
       
@@ -76,24 +76,12 @@ Below is an example to generate a Hertzsprung–Russell diagram.
     </item>
     
     <item>
-      <title>#8 - Compile Scripts</title>
+      <title>Compile Scripts</title>
       <link>https://eoghan.speleo.dev/posts/2018/compile-script/</link>
       <pubDate>Sun, 27 May 2018 22:57:45 +0100</pubDate>
       
       <guid>https://eoghan.speleo.dev/posts/2018/compile-script/</guid>
       <description>A compile script is a shell script to compile programs which consist of multiple files, and potentially libraries too. In my opinion at least a compile script is a step below a Makefile. I had honestly not heard of such a thing until I was helping a lecturer to test that his old FORTRAN simulation would compile and run on a modern UNIX machine. The purpose of the script was to simply compile all the source files and then link the object files to the executable1.</description>
-    </item>
-    
-    <item>
-      <title>#4 - Git Tutorial / Commands</title>
-      <link>https://eoghan.speleo.dev/posts/2018/git-tutorial/</link>
-      <pubDate>Fri, 09 Feb 2018 21:57:45 +0100</pubDate>
-      
-      <guid>https://eoghan.speleo.dev/posts/2018/git-tutorial/</guid>
-      <description>Git is a program used for version control through github.com.
-So here are the steps I use to create a repository:
-git init echo &amp;quot;# &amp;lt;Repo Name&amp;gt;&amp;quot; &amp;gt;&amp;gt; README.md git add README.md git commit -m &amp;quot;1st Commit&amp;quot; Now I go to my github account page and hit &amp;ldquo;New Repository&amp;rdquo;, then type in a name and hit create. Back to the terminal:
-git remote add origin &amp;lt;url to .git&amp;gt; git push -u origin master git add * git commit -m “&amp;lt;message&amp;gt;” git push To save myself some time, I added the following line to my .</description>
     </item>
     
     <item>
