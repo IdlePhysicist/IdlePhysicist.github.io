@@ -20,7 +20,7 @@
       <guid>https://eoghan.speleo.dev/programming/cave-logger/</guid>
       <description>Background I used to keep track of what caves I have visited (and who I go with) using an Excel Workbook. I decided (in 2017) to write a program to do this for me because why not ?!
 Come 2019, I started to use Go at work, and I finally go around to looking at this project again.
- A screen shot of cave-logger v1.2.1
+ A screen shot of the Trips view of cave-logger v2.0.0-a1
   Functionality The app is fairly basic, it gives the user the ability to create, update and delete entries for trips, cavers, and caves.</description>
     </item>
     
