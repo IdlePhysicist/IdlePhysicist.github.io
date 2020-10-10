@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Plotting in Julia (using Python) - IdlePhysicist</title>
+<title>Ephemeris - IdlePhysicist</title>
 <link rel="stylesheet" type="text/css" href="https://eoghan.speleo.dev/css/main.css">
 </head>
 <body>
@@ -15,44 +15,14 @@
 </header>
 <main>
   <article>
-    <div class="title">
-  <h1>Plotting in Julia (using Python)</h1>
-  </div>
-<div class="meta">
-  <div>Date: 2018-08-12
-  <br>Last Updated: 2018-08-12
-  </div>
-  <div>
-    <span><a href="https://eoghan.speleo.dev/tags/julia">#Julia</a></span>
-    <span><a href="https://eoghan.speleo.dev/tags/programming">#Programming</a></span>
-    </div>
-  </div>
-<div class="content">
-  <p>The first step is to have Julia installed as well as a plotting library. I chose to use PyPlot as it uses Matplotlib which I am used to from Python. Install PyPlot using <code>Pkg.add(&quot;PyPlot&quot;)</code> at the Julia prompt.</p>
-<p>Below is an example to generate a Hertzsprung–Russell diagram.</p>
-<div class="highlight"><pre style="background-color:#fff"><code class="language-julia" data-lang="julia"><span style="font-style:italic">#   Reading in some data.</span>
-data = readdlm(<span style="font-style:italic">&#34;stars.txt&#34;</span>,<span style="font-style:italic">&#39; &#39;</span>)
-temperature = data[:,1]
-magnitude = data[:,2]
-
-<span style="font-style:italic">#   Call the plotting library as below</span>
-
-<span style="font-weight:bold">using</span> PyPlot
-figure(1,figsize=(6,6))
-rc(<span style="font-style:italic">&#34;font&#34;</span>, family=<span style="font-style:italic">&#34;sans&#34;</span>)
-rc(<span style="font-style:italic">&#34;xtick&#34;</span>, labelsize=<span style="font-style:italic">&#34;small&#34;</span>)
-rc(<span style="font-style:italic">&#34;ytick&#34;</span>, labelsize=<span style="font-style:italic">&#34;small&#34;</span>)
-
-scatter(temperature,magnitude,linewidth=2)
-
-<span style="font-style:italic">#ylim(0,0.6)</span>
-xlabel(<span style="font-style:italic">&#34;Temperature (K)&#34;</span>)
-ylabel(<span style="font-style:italic">&#34;Magnitude&#34;</span>)
-<span style="font-style:italic">#legend(loc=&#34;upper left&#34;)</span>
-savefig(<span style="font-style:italic">&#34;hrdiagram.png&#34;</span>)
-show()
-</code></pre></div><p><img src="https://eoghan.speleo.dev/images/hrdiagram.png" alt="hrdiagram"></p>
+    <div>
+  <h1>Ephemeris</h1>
 </div>
+<ul>
+  <li>2020-10-10 - <a href="https://eoghan.speleo.dev/posts/2020/twilight/">Night to Day: Twilight</a></li>
+  </ul>
+
+
 
   </article>
 </main>

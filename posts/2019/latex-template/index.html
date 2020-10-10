@@ -38,9 +38,9 @@
 <pre><code>The anchor of a bookmark and its parent's must not be the same...
 </code></pre><p>Here&rsquo;s the link to my <a href="https://eoghan.speleo.dev/files/log/cave-log.tex.txt">new template</a>, and my <a href="https://eoghan.speleo.dev/files/log/cave-log.tex.dep.txt">old one</a> too.</p>
 <p>Here&rsquo;s the code that I use to render the PDFs, I keep it in a script in my local logs dir.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell"><span style="color:#75715e">#!/bin/bash
-</span><span style="color:#75715e"></span>pandoc $1 -s --template cave-log.tex <span style="color:#ae81ff">\
-</span><span style="color:#ae81ff"></span>  -o <span style="color:#e6db74">${</span>1%.*<span style="color:#e6db74">}</span>.pdf --latex-engine<span style="color:#f92672">=</span>xelatex
+<div class="highlight"><pre style="background-color:#fff"><code class="language-shell" data-lang="shell"><span style="">#!/bin/bash
+</span><span style=""></span>pandoc $1 -s --template cave-log.tex <span style="font-weight:bold;font-style:italic">\
+</span><span style="font-weight:bold;font-style:italic"></span>  -o <span style="font-weight:bold;font-style:italic">${</span>1%.*<span style="font-weight:bold;font-style:italic">}</span>.pdf --latex-engine=xelatex
 </code></pre></div></div>
 
   </article>

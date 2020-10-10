@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twilight on IdlePhysicist</title>
+    <link>https://eoghan.speleo.dev/tags/twilight/</link>
+    <description>Recent content in Twilight on IdlePhysicist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
+    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eoghan.speleo.dev/tags/twilight/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Night to Day: Twilight</title>
+      <link>https://eoghan.speleo.dev/posts/2020/twilight/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/posts/2020/twilight/</guid>
+      <description>I have always been intriuged by the speed at which day turns to night, and the change in the length of the day over the course of the year. It is often said that Irish people are obsessed with the weather and as such the length of the day too. As we would say:
+ There&amp;rsquo;s a grand stretch in the evenings
+ We are at least partially vindicated in our obsession because if one has never experienced standing outside at 10 PM on a summer night in what feels like early evening light, then that person can never understand the strange feeling it brings.</description>
+    </item>
+    
+  </channel>
+</rss>
