@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
     <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
-    <lastBuildDate>Wed, 08 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://eoghan.speleo.dev/caving/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 08 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://eoghan.speleo.dev/caving/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>February 2020</title>
       <link>https://eoghan.speleo.dev/caving/2020-04-08-february-2020/</link>
@@ -54,7 +50,7 @@
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://eoghan.speleo.dev/caving/2018-10-31-october-2018/</guid>
-      <description>DCU Freshers&amp;rsquo; Trip 2018. The log entry can be found here.</description>
+      <description>DCU Freshers&#39; Trip 2018. The log entry can be found here.</description>
     </item>
     
     <item>

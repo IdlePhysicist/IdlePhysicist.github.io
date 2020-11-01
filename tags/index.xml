@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
     <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
-    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://eoghan.speleo.dev/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://eoghan.speleo.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ephemeris</title>
       <link>https://eoghan.speleo.dev/tags/ephemeris/</link>

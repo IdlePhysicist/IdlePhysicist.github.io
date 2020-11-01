@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
     <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
-    <lastBuildDate>Fri, 09 Feb 2018 22:57:45 +0100</lastBuildDate>
-    
-	<atom:link href="https://eoghan.speleo.dev/tags/nerdyness/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 09 Feb 2018 22:57:45 +0100</lastBuildDate><atom:link href="https://eoghan.speleo.dev/tags/nerdyness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Sea Interferometer at Dover Heights, NSW</title>
       <link>https://eoghan.speleo.dev/posts/2018/sea-interferometer/</link>

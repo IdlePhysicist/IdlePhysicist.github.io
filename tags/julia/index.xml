@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
     <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
-    <lastBuildDate>Sun, 12 Aug 2018 17:15:45 +0100</lastBuildDate>
-    
-	<atom:link href="https://eoghan.speleo.dev/tags/julia/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 12 Aug 2018 17:15:45 +0100</lastBuildDate><atom:link href="https://eoghan.speleo.dev/tags/julia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plotting in Julia (using Python)</title>
       <link>https://eoghan.speleo.dev/posts/2018/julia-plotting/</link>

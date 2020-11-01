@@ -7,10 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
     <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
-    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://eoghan.speleo.dev/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://eoghan.speleo.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WorldWideWeb Emulator</title>
+      <link>https://eoghan.speleo.dev/posts/2020/www-emulator/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/posts/2020/www-emulator/</guid>
+      <description>The internet as we know it was developed at CERN in 1990, credit going to Tim Berners-Lee. The frist browser was developed by the same man at CERN on a NeXT cube, this was great if you had a NeXT machine but they were costly so other browsers such The Line Mode browser filled the gap. In 2019 a group of developers and designers gathered at CERN to rebuild the experience of the WorldWideWeb broswer on a NeXT machine within a tab of a modern browser.</description>
+    </item>
     
     <item>
       <title>Night to Day: Twilight</title>

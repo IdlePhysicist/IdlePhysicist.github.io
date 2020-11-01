@@ -3,14 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eoghan.speleo.dev/tags/ephemeris/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <loc>https://eoghan.speleo.dev/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://eoghan.speleo.dev/</loc>
+    <loc>https://eoghan.speleo.dev/posts/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eoghan.speleo.dev/posts/2020/www-emulator/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eoghan.speleo.dev/tags/ephemeris/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -25,13 +39,6 @@
   
   <url>
     <loc>https://eoghan.speleo.dev/tags/physics/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://eoghan.speleo.dev/posts/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
