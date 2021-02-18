@@ -2,37 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electronics on IdlePhysicist</title>
-    <link>https://eoghan.speleo.dev/tags/electronics/</link>
+    <link>https://eoghan.speleo.dev/tags/electronics.html</link>
     <description>Recent content in Electronics on IdlePhysicist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
-    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
-    <lastBuildDate>Fri, 23 Mar 2018 21:37:45 +0100</lastBuildDate><atom:link href="https://eoghan.speleo.dev/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ceramic Capacitor Markings</title>
-      <link>https://eoghan.speleo.dev/posts/2018/cap-markings/</link>
-      <pubDate>Fri, 23 Mar 2018 21:37:45 +0100</pubDate>
-      
-      <guid>https://eoghan.speleo.dev/posts/2018/cap-markings/</guid>
-      <description>A shameless repost from Grathio Labs. The document lists the values for capacitor markings.</description>
-    </item>
-    
+    <copyright>© 2021 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [RSS](index.xml)</copyright>
+    <lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://eoghan.speleo.dev/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les Paul Jimmy Page Wiring</title>
-      <link>https://eoghan.speleo.dev/posts/2017/les-paul-50/</link>
+      <link>https://eoghan.speleo.dev/posts/2017/les-paul-50.html</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2017/les-paul-50/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2017/les-paul-50.html</guid>
       <description>In 2012 I got a Les Paul Studio 50s Tribute, which was a very nice guitar to begin with. In 2016 I bought a Jimmy Page wiring kit on eBay. I altered the wiring from the schematic included with the kit to one with the 1950s wiring style (see below for more information). The first time I tried to wire it up I make a dog&amp;rsquo;s dinner of it, and the guitar didn&amp;rsquo;t work.</description>
     </item>
     
     <item>
       <title>Stratocaster Wiring</title>
-      <link>https://eoghan.speleo.dev/posts/2017/strat/</link>
+      <link>https://eoghan.speleo.dev/posts/2017/strat.html</link>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2017/strat/</guid>
-      <description>In 2011, I got a EMG HZ pre-wired scratchplate. It had two passive EMG humbuckers and a master volume &amp;amp; tone. Over time I removed the neck pickup, partially due to lack of use, partially to resemble Phil X&amp;rsquo;s ESP Viper.
+      <guid>https://eoghan.speleo.dev/posts/2017/strat.html</guid>
+      <description>In 2011, I got a EMG HZ pre-wired scratchplate. It had two passive EMG humbuckers and a master volume &amp;amp; tone. Over time I removed the neck pickup, partially due to lack of use, partially to resemble this guitar.
+Phil X&amp;rsquo;s ESP Viper
 Now (May 2017) that I have become more savvy with a soldering iron, I have rewired the system, retaining only the EMG HZ bridge pickup, and the three way selector switch.</description>
     </item>
     

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LaTeX on IdlePhysicist</title>
-    <link>https://eoghan.speleo.dev/tags/latex/</link>
+    <link>https://eoghan.speleo.dev/tags/latex.html</link>
     <description>Recent content in LaTeX on IdlePhysicist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
-    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
+    <copyright>© 2021 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [RSS](index.xml)</copyright>
     <lastBuildDate>Mon, 22 Apr 2019 20:26:45 -0600</lastBuildDate><atom:link href="https://eoghan.speleo.dev/tags/latex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pandoc &#43; Latex Template</title>
-      <link>https://eoghan.speleo.dev/posts/2019/latex-template/</link>
+      <link>https://eoghan.speleo.dev/posts/2019/latex-template.html</link>
       <pubDate>Mon, 22 Apr 2019 20:26:45 -0600</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2019/latex-template/</guid>
-      <description>Sigh this one was a real piece of work. So as you may know I document my caving adventures in a log, each month has a log entry. Until recently I used the app Ulysses to export my logs using a template I got from their website. When I upgraded my MacBook to an SSD, I looked for something new, since I don&amp;rsquo;t quite agree with the subscription model that they have adopted.</description>
+      <guid>https://eoghan.speleo.dev/posts/2019/latex-template.html</guid>
+      <description>Sigh this one was a real piece of work. So as you may know I document my caving adventures in a log (see below), each month has a log entry. Until recently I used the app Ulysses to export my logs using a template I got from their website. When I upgraded my MacBook to an SSD, I looked for something new, since I don&amp;rsquo;t quite agree with the subscription model that they have adopted.</description>
     </item>
     
   </channel>

@@ -1,0 +1,26 @@
+# The Sea Interferometer at Dover Heights, NSW
+Date: 2018-02-09
+Last Updated: 2018-02-09
+
+Dover Heights was a Second World War RADAR station, taken over by the CSIRO Dept. of Radiophysics after war. CSIRO then repurposed the station for solar observations as well as observations of the first "radio stars". For the first 4 years of operation, the station used arrays of Yagi antennae, with ever increasing numbers of elements. 1950 saw the arrival of the first dish antenna, a 4.9m parabolic dish mounted to the roof of the WWII block house.
+
+=> /images/1952_12_yagi_antenna_b.jpg The 12 element Yagi array at Dover Heights (1952)
+
+In 1951 the 8 element Yagi array was expanded to 12 elements, this made the telescope one of the most powerful in the world. By the end of its survey the array had discovered over 100 sources.
+
+Some of the arrays at Dover Heights, used a technique known as sea interferometry. In this technique, the antenna detects radio waves that come directly from a source in the sky. At the same time it detects other radio waves from the source that are reflected off the sea. The two sets of waves are combined and give an interference pattern, or interferogram.
+
+=> /images/1948_sea_interferometer.gif A ray diagram of how the Sea Interferometer worked
+
+Using the sea as a reflector is a great idea which greatly increases the resolution of the array, although lower order fringes are greatly affected my sea state (i.e. swell). Due to the geometry of the interferometer only sources that were close to the horizon could be observed.
+
+
+Material adapted from:
+
+=> http://www.parkes.atnf.csiro.au/people/sar049/dover_heights/ csiro.au   
+Orchiston et al., *Journal of Astronomical History and Heritage*, 20(3), 289‒312 (2017)
+
+
+=> gemini://eoghan.speleo.dev/posts/2018/verifying.gmi < Newer: Verifying...
+=> gemini://eoghan.speleo.dev/posts/2017/what-the-hell-is-with-simultaneous-equations.gmi > Older: What the hell is with Simultaneous Equations?
+

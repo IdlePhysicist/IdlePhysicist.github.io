@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OSX on IdlePhysicist</title>
-    <link>https://eoghan.speleo.dev/tags/osx/</link>
+    <link>https://eoghan.speleo.dev/tags/osx.html</link>
     <description>Recent content in OSX on IdlePhysicist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
-    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
+    <copyright>© 2021 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [RSS](index.xml)</copyright>
     <lastBuildDate>Mon, 08 Apr 2019 19:26:45 -0600</lastBuildDate><atom:link href="https://eoghan.speleo.dev/tags/osx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Screen Cheatsheet</title>
-      <link>https://eoghan.speleo.dev/posts/2019/screen-cheat/</link>
+      <link>https://eoghan.speleo.dev/posts/2019/screen-cheat.html</link>
       <pubDate>Mon, 08 Apr 2019 19:26:45 -0600</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2019/screen-cheat/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2019/screen-cheat.html</guid>
       <description>Install Screen: brew install screen
 Enter a new Screen Session: screen or screen -S &amp;lt;name&amp;gt;
 Detach from current screen session: Ctrl + a + d
@@ -25,22 +25,21 @@ Execute a command in a screen session: screen -X -S PID_OF_SCREEN_SESSION &amp;l
     
     <item>
       <title>Mounting Macintosh Drives</title>
-      <link>https://eoghan.speleo.dev/posts/2019/mounting-mac-drives/</link>
+      <link>https://eoghan.speleo.dev/posts/2019/mounting-mac-drives.html</link>
       <pubDate>Mon, 08 Apr 2019 19:17:45 -0600</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2019/mounting-mac-drives/</guid>
-      <description>So this March I decided it was time to give my MacBook Pro a new lease of life. It still had its original 500GB HDD that it had come with. I had not updated my version of OS X since Yosemite in 2015, and that is because I used Apple&amp;rsquo;s Aperture for processing my photographs and Yosemite was the last version of OS X to support Aperture. This of course had the knock on effect of making it harder and harder to use HomeBrew as time wore on.</description>
+      <guid>https://eoghan.speleo.dev/posts/2019/mounting-mac-drives.html</guid>
+      <description>So this March I decided it was time to give my MacBook Pro a new lease of life. It still had its original 500GB HDD that it had come with. I had not updated my version of OS X since Yosemite in 2015, and that is because I used Apple&amp;rsquo;s Aperture for processing my photographs and Yosemite was the last version of OS X to support Aperture. This of course had the knock on effect of making it harder and harder to use Homebrew as time wore on.</description>
     </item>
     
     <item>
       <title>Verifying...</title>
-      <link>https://eoghan.speleo.dev/posts/2018/verifying/</link>
+      <link>https://eoghan.speleo.dev/posts/2018/verifying.html</link>
       <pubDate>Sun, 27 May 2018 16:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2018/verifying/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2018/verifying.html</guid>
       <description>Bang this into the terminal with the name of the app and reopen the guilty app.
-xattr -d com.apple.quarantine /Applications/&amp;lt;App Name&amp;gt;.app
-It might not be the best method to fix the problem but it does do the job.</description>
+xattr -d com.apple.quarantine /Applications/&amp;lt;App Name&amp;gt;.app It might not be the best method to fix the problem but it does do the job.</description>
     </item>
     
   </channel>

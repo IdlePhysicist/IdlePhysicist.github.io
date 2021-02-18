@@ -2,32 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caving on IdlePhysicist</title>
-    <link>https://eoghan.speleo.dev/tags/caving/</link>
+    <link>https://eoghan.speleo.dev/tags/caving.html</link>
     <description>Recent content in Caving on IdlePhysicist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
-    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
-    <lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://eoghan.speleo.dev/tags/caving/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cave Logger</title>
-      <link>https://eoghan.speleo.dev/programming/cave-logger/</link>
-      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eoghan.speleo.dev/programming/cave-logger/</guid>
-      <description>Background I used to keep track of what caves I have visited (and who I go with) using an Excel Workbook. I decided (in 2017) to write a program to do this for me because why not ?!
-Come 2019, I started to use Go at work, and I finally go around to looking at this project again.
- A screen shot of the Trips view of cave-logger v2.0.0-a1
-  Functionality The app is fairly basic, it gives the user the ability to create, update and delete entries for trips, cavers, and caves.</description>
-    </item>
-    
+    <copyright>© 2021 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [RSS](index.xml)</copyright>
+    <lastBuildDate>Sat, 02 Feb 2019 21:57:45 +0100</lastBuildDate><atom:link href="https://eoghan.speleo.dev/tags/caving/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why do I descend faster the further I get down a pitch?</title>
-      <link>https://eoghan.speleo.dev/posts/2019/descend-faster/</link>
+      <link>https://eoghan.speleo.dev/posts/2019/descend-faster.html</link>
       <pubDate>Sat, 02 Feb 2019 21:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2019/descend-faster/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2019/descend-faster.html</guid>
       <description>Something I have often noticed while descending pitches in caves is that the further down the pitch/rope I get the faster I am travelling. So I set about using some of my kinematics knowledge to analyse the system and see what is going on.
-  Simple, with diagram showing friction points where the rope is in contact with the Simple &amp;amp; braking carabiner
+ Simple, with diagram showing friction points where the rope is in contact with the Simple &amp;amp; braking carabiner
   Firstly I wrote out some potential reasons for this observation.</description>
     </item>
     

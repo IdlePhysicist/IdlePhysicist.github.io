@@ -1,0 +1,22 @@
+# Stratocaster Wiring
+Date: 2017-05-12
+Last Updated: 2017-05-12
+
+In 2011, I got a EMG HZ pre-wired scratchplate. It had two passive EMG humbuckers and a master volume & tone. Over time I removed the neck pickup, partially due to lack of use, partially to resemble this guitar.
+
+=> https://www.youtube.com/watch?v=scZWEpSvXgM Phil X's ESP Viper
+
+Now (May 2017) that I have become more savvy with a soldering iron, I have rewired the system, retaining only the EMG HZ bridge pickup, and the three way selector switch. I did this on the cheap by cannibalising the components that came on the original scratchplate that came with the guitar. I installed a master volume and tone, and the three way switch. The trick is that I wired the switch such that the bridge Position gives the humbucker's coils in series (this is the standard way a humbucker is wired), middle position gives a coil tap, and the neck position gives the humbucker's coils in parallel. This actually gives quite a nice range of sounds for a one pickup guitar, and I find myself liking the parallel position more than the series position.
+
+=> /images/strat.jpg My Strat
+
+My schematic:
+
+=> /files/stratwiring17.pdf stratwiring17.pdf
+
+NB I have a funny feeling that the volume potentiometer is 250 kΩ, this is contrary to what I have written in my schematic.
+
+
+=> gemini://eoghan.speleo.dev/posts/2017/les-paul-50.gmi < Newer: Les Paul Jimmy Page Wiring
+=> gemini://eoghan.speleo.dev/caving.gmi > Older: Caving
+

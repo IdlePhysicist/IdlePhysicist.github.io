@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Physics on IdlePhysicist</title>
-    <link>https://eoghan.speleo.dev/tags/physics/</link>
+    <link>https://eoghan.speleo.dev/tags/physics.html</link>
     <description>Recent content in Physics on IdlePhysicist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
-    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
+    <copyright>© 2021 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [RSS](index.xml)</copyright>
     <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://eoghan.speleo.dev/tags/physics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Night to Day: Twilight</title>
-      <link>https://eoghan.speleo.dev/posts/2020/twilight/</link>
+      <link>https://eoghan.speleo.dev/posts/2020/twilight.html</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2020/twilight/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2020/twilight.html</guid>
       <description>I have always been intriuged by the speed at which day turns to night, and the change in the length of the day over the course of the year. It is often said that Irish people are obsessed with the weather and as such the length of the day too. As we would say:
  There&amp;rsquo;s a grand stretch in the evenings
  We are at least partially vindicated in our obsession because if one has never experienced standing outside at 10 PM on a summer night in what feels like early evening light, then that person can never understand the strange feeling it brings.</description>
@@ -21,21 +21,21 @@
     
     <item>
       <title>Why do I descend faster the further I get down a pitch?</title>
-      <link>https://eoghan.speleo.dev/posts/2019/descend-faster/</link>
+      <link>https://eoghan.speleo.dev/posts/2019/descend-faster.html</link>
       <pubDate>Sat, 02 Feb 2019 21:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2019/descend-faster/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2019/descend-faster.html</guid>
       <description>Something I have often noticed while descending pitches in caves is that the further down the pitch/rope I get the faster I am travelling. So I set about using some of my kinematics knowledge to analyse the system and see what is going on.
-  Simple, with diagram showing friction points where the rope is in contact with the Simple &amp;amp; braking carabiner
+ Simple, with diagram showing friction points where the rope is in contact with the Simple &amp;amp; braking carabiner
   Firstly I wrote out some potential reasons for this observation.</description>
     </item>
     
     <item>
       <title>The Sea Interferometer at Dover Heights, NSW</title>
-      <link>https://eoghan.speleo.dev/posts/2018/sea-interferometer/</link>
+      <link>https://eoghan.speleo.dev/posts/2018/sea-interferometer.html</link>
       <pubDate>Fri, 09 Feb 2018 22:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2018/sea-interferometer/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2018/sea-interferometer.html</guid>
       <description>Dover Heights was a Second World War RADAR station, taken over by the CSIRO Dept. of Radiophysics after war. CSIRO then repurposed the station for solar observations as well as observations of the first &amp;ldquo;radio stars&amp;rdquo;. For the first 4 years of operation, the station used arrays of Yagi antennae, with ever increasing numbers of elements. 1950 saw the arrival of the first dish antenna, a 4.9m parabolic dish mounted to the roof of the WWII block house.</description>
     </item>
     

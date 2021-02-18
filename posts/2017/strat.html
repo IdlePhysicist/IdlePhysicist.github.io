@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stratocaster Wiring - IdlePhysicist</title>
+<link rel="stylesheet" type="text/css" href="https://eoghan.speleo.dev/css/main.css">
+</head>
+<body>
+<header>
+  <div>
+    <h1><a href="https://eoghan.speleo.dev">IdlePhysicist</a></h1>
+  </div>
+  <nav><a href="https://eoghan.speleo.dev/tags.html">Tags</a><a href="https://eoghan.speleo.dev/apps.html">Apps</a><a href="https://eoghan.speleo.dev/caving.html">Caving Logs</a><a href="https://eoghan.speleo.dev/about.html">About Me</a><a href="https://s3-eu-west-1.amazonaws.com/eoghan.speleo.dev/cv_Eoghan_ConlonONeill.pdf">CV/Resumé</a></nav>
+</header>
+<main>
+  <article>
+    <div class="title">
+  <h1>Stratocaster Wiring</h1>
+  </div>
+<div class="meta">
+  <div>Date: 2017-05-12
+  <br>Last Updated: 2017-05-12
+  </div>
+  <div>
+    <span><a href="https://eoghan.speleo.dev/tags/electronics">#Electronics</a></span>
+    </div>
+  </div>
+<div class="content">
+  <p>In 2011, I got a EMG HZ pre-wired scratchplate. It had two passive EMG humbuckers and a master volume &amp; tone. Over time I removed the neck pickup, partially due to lack of use, partially to resemble this guitar.</p>
+<p><a href="https://www.youtube.com/watch?v=scZWEpSvXgM">Phil X&rsquo;s ESP Viper</a></p>
+<p>Now (May 2017) that I have become more savvy with a soldering iron, I have rewired the system, retaining only the EMG HZ bridge pickup, and the three way selector switch. I did this on the cheap by cannibalising the components that came on the original scratchplate that came with the guitar. I installed a master volume and tone, and the three way switch. The trick is that I wired the switch such that the bridge Position gives the humbucker&rsquo;s coils in series (this is the standard way a humbucker is wired), middle position gives a coil tap, and the neck position gives the humbucker&rsquo;s coils in parallel. This actually gives quite a nice range of sounds for a one pickup guitar, and I find myself liking the parallel position more than the series position.</p>
+<figure><a href="https://eoghan.speleo.dev/images/strat.jpg">
+    <img src="https://eoghan.speleo.dev/images/strat.jpg"
+         alt="My Strat"/> </a><figcaption>
+            <p>My Strat</p>
+        </figcaption>
+</figure>
+
+<p>My schematic:</p>
+<p><a href="https://eoghan.speleo.dev/files/stratwiring17.pdf">stratwiring17.pdf</a></p>
+<p>NB I have a funny feeling that the volume potentiometer is 250 kΩ, this is contrary to what I have written in my schematic.</p>
+</div>
+
+  </article>
+</main>
+<footer>
+  <div>
+    <div>© 2021 Eoghan - <a href="https://github.com/IdlePhysicist">GitHub</a> - <a href="index.xml">RSS</a></div>
+  </div>
+</footer>
+
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-119867334-1', 'auto');
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\[', '\]']],
+        processEscapes: true,
+        processEnvironments: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        TeX: {
+          equationNumbers: { autoNumber: "AMS" },
+          extensions: ["AMSmath.js", "AMSsymbols.js"]
+        }
+      }
+    });
+    MathJax.Hub.Queue(function () {
+      
+      
+      
+      var all = MathJax.Hub.getAllJax(), i;
+      for (i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+      }
+    });
+
+    MathJax.Hub.Config({
+      
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+    });
+</script></body>
+</html>

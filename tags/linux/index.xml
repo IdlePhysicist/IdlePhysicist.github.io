@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on IdlePhysicist</title>
-    <link>https://eoghan.speleo.dev/tags/linux/</link>
+    <link>https://eoghan.speleo.dev/tags/linux.html</link>
     <description>Recent content in Linux on IdlePhysicist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
-    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
+    <copyright>© 2021 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [RSS](index.xml)</copyright>
     <lastBuildDate>Mon, 08 Apr 2019 19:26:45 -0600</lastBuildDate><atom:link href="https://eoghan.speleo.dev/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Screen Cheatsheet</title>
-      <link>https://eoghan.speleo.dev/posts/2019/screen-cheat/</link>
+      <link>https://eoghan.speleo.dev/posts/2019/screen-cheat.html</link>
       <pubDate>Mon, 08 Apr 2019 19:26:45 -0600</pubDate>
       
-      <guid>https://eoghan.speleo.dev/posts/2019/screen-cheat/</guid>
+      <guid>https://eoghan.speleo.dev/posts/2019/screen-cheat.html</guid>
       <description>Install Screen: brew install screen
 Enter a new Screen Session: screen or screen -S &amp;lt;name&amp;gt;
 Detach from current screen session: Ctrl + a + d

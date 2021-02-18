@@ -1,0 +1,29 @@
+# IdlePhysicist's Gemini Capsule
+
+## Menu
+=> /apps.gmi Apps
+=> /caving.gmi Caving Logs
+=> /about.gmi About Me
+=> https://s3-eu-west-1.amazonaws.com/eoghan.speleo.dev/cv_Eoghan_ConlonONeill.pdf CV/Resumé
+
+## Blog posts
+=> gemini://eoghan.speleo.dev/posts/2021/navigation.gmi January 20, 2021: Navigation by paper >> Navigation by app
+=> gemini://eoghan.speleo.dev/posts/2020/www-emulator.gmi November 1, 2020: WorldWideWeb Emulator
+=> gemini://eoghan.speleo.dev/posts/2020/twilight.gmi October 10, 2020: Night to Day: Twilight
+=> gemini://eoghan.speleo.dev/posts/2020/gitea.gmi July 14, 2020: Self-hosting Gitea on Amazon Lightsail
+=> gemini://eoghan.speleo.dev/posts/2020/homebrew-therion.gmi May 16, 2020: Homebrew Formula for Therion
+=> gemini://eoghan.speleo.dev/posts/2019/latex-template.gmi April 22, 2019: Pandoc + Latex Template
+=> gemini://eoghan.speleo.dev/posts/2019/screen-cheat.gmi April 8, 2019: Screen Cheatsheet
+=> gemini://eoghan.speleo.dev/posts/2019/mounting-mac-drives.gmi April 8, 2019: Mounting Macintosh Drives
+=> gemini://eoghan.speleo.dev/posts/2019/descend-faster.gmi February 2, 2019: Why do I descend faster the further I get down a pitch?
+=> gemini://eoghan.speleo.dev/posts/2018/cloghleagh.gmi September 29, 2018: Cloghleagh Mine, 1862-1868
+=> gemini://eoghan.speleo.dev/posts/2018/nokia-3310.gmi September 1, 2018: The Nokia 3310 3G
+=> gemini://eoghan.speleo.dev/posts/2018/julia-plotting.gmi August 12, 2018: Plotting in Julia (using Python)
+=> gemini://eoghan.speleo.dev/posts/2018/compile-script.gmi May 27, 2018: Compile Scripts
+=> gemini://eoghan.speleo.dev/posts/2018/verifying.gmi May 27, 2018: Verifying...
+=> gemini://eoghan.speleo.dev/posts/2018/sea-interferometer.gmi February 9, 2018: The Sea Interferometer at Dover Heights, NSW
+=> gemini://eoghan.speleo.dev/posts/2017/what-the-hell-is-with-simultaneous-equations.gmi June 3, 2017: What the hell is with Simultaneous Equations?
+=> gemini://eoghan.speleo.dev/posts/2017/les-paul-50.gmi May 15, 2017: Les Paul Jimmy Page Wiring
+=> gemini://eoghan.speleo.dev/posts/2017/strat.gmi May 12, 2017: Stratocaster Wiring
+
+© Eoghan 2021

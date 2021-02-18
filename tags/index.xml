@@ -2,198 +2,171 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on IdlePhysicist</title>
-    <link>https://eoghan.speleo.dev/tags/</link>
+    <link>https://eoghan.speleo.dev/tags.html</link>
     <description>Recent content in Tags on IdlePhysicist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
-    <copyright>© 2020 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [GitLab](https://gitlab.com/IdlePhysicist) - [RSS](index.xml)</copyright>
+    <copyright>© 2021 Eoghan - [GitHub](https://github.com/IdlePhysicist) - [RSS](index.xml)</copyright>
     <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://eoghan.speleo.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ephemeris</title>
-      <link>https://eoghan.speleo.dev/tags/ephemeris/</link>
+      <link>https://eoghan.speleo.dev/tags/ephemeris.html</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/ephemeris/</guid>
+      <guid>https://eoghan.speleo.dev/tags/ephemeris.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physics</title>
-      <link>https://eoghan.speleo.dev/tags/physics/</link>
+      <link>https://eoghan.speleo.dev/tags/physics.html</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/physics/</guid>
+      <guid>https://eoghan.speleo.dev/tags/physics.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://eoghan.speleo.dev/tags/python/</link>
+      <link>https://eoghan.speleo.dev/tags/python.html</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/python/</guid>
+      <guid>https://eoghan.speleo.dev/tags/python.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twilight</title>
-      <link>https://eoghan.speleo.dev/tags/twilight/</link>
+      <link>https://eoghan.speleo.dev/tags/twilight.html</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/twilight/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Caving</title>
-      <link>https://eoghan.speleo.dev/tags/caving/</link>
-      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eoghan.speleo.dev/tags/caving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://eoghan.speleo.dev/tags/programming/</link>
-      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eoghan.speleo.dev/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tools</title>
-      <link>https://eoghan.speleo.dev/tags/tools/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eoghan.speleo.dev/tags/tools/</guid>
+      <guid>https://eoghan.speleo.dev/tags/twilight.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>LaTeX</title>
-      <link>https://eoghan.speleo.dev/tags/latex/</link>
+      <link>https://eoghan.speleo.dev/tags/latex.html</link>
       <pubDate>Mon, 22 Apr 2019 20:26:45 -0600</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/latex/</guid>
+      <guid>https://eoghan.speleo.dev/tags/latex.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandoc</title>
-      <link>https://eoghan.speleo.dev/tags/pandoc/</link>
+      <link>https://eoghan.speleo.dev/tags/pandoc.html</link>
       <pubDate>Mon, 22 Apr 2019 20:26:45 -0600</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/pandoc/</guid>
+      <guid>https://eoghan.speleo.dev/tags/pandoc.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://eoghan.speleo.dev/tags/linux/</link>
+      <link>https://eoghan.speleo.dev/tags/linux.html</link>
       <pubDate>Mon, 08 Apr 2019 19:26:45 -0600</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/linux/</guid>
+      <guid>https://eoghan.speleo.dev/tags/linux.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>OSX</title>
-      <link>https://eoghan.speleo.dev/tags/osx/</link>
+      <link>https://eoghan.speleo.dev/tags/osx.html</link>
       <pubDate>Mon, 08 Apr 2019 19:26:45 -0600</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/osx/</guid>
+      <guid>https://eoghan.speleo.dev/tags/osx.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>GUI</title>
-      <link>https://eoghan.speleo.dev/tags/gui/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Caving</title>
+      <link>https://eoghan.speleo.dev/tags/caving.html</link>
+      <pubDate>Sat, 02 Feb 2019 21:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/gui/</guid>
+      <guid>https://eoghan.speleo.dev/tags/caving.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring</title>
-      <link>https://eoghan.speleo.dev/tags/exploring/</link>
+      <link>https://eoghan.speleo.dev/tags/exploring.html</link>
       <pubDate>Sat, 29 Sep 2018 19:15:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/exploring/</guid>
+      <guid>https://eoghan.speleo.dev/tags/exploring.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review</title>
-      <link>https://eoghan.speleo.dev/tags/review/</link>
+      <link>https://eoghan.speleo.dev/tags/review.html</link>
       <pubDate>Sat, 01 Sep 2018 17:15:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/review/</guid>
+      <guid>https://eoghan.speleo.dev/tags/review.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Julia</title>
-      <link>https://eoghan.speleo.dev/tags/julia/</link>
+      <link>https://eoghan.speleo.dev/tags/julia.html</link>
       <pubDate>Sun, 12 Aug 2018 17:15:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/julia/</guid>
+      <guid>https://eoghan.speleo.dev/tags/julia.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Electronics</title>
-      <link>https://eoghan.speleo.dev/tags/electronics/</link>
-      <pubDate>Fri, 23 Mar 2018 21:37:45 +0100</pubDate>
+      <title>Programming</title>
+      <link>https://eoghan.speleo.dev/tags/programming.html</link>
+      <pubDate>Sun, 12 Aug 2018 17:15:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/electronics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reference</title>
-      <link>https://eoghan.speleo.dev/tags/reference/</link>
-      <pubDate>Fri, 23 Mar 2018 21:37:45 +0100</pubDate>
-      
-      <guid>https://eoghan.speleo.dev/tags/reference/</guid>
+      <guid>https://eoghan.speleo.dev/tags/programming.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>History</title>
-      <link>https://eoghan.speleo.dev/tags/history/</link>
+      <link>https://eoghan.speleo.dev/tags/history.html</link>
       <pubDate>Fri, 09 Feb 2018 22:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/history/</guid>
+      <guid>https://eoghan.speleo.dev/tags/history.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nerdyness</title>
-      <link>https://eoghan.speleo.dev/tags/nerdyness/</link>
+      <link>https://eoghan.speleo.dev/tags/nerdyness.html</link>
       <pubDate>Fri, 09 Feb 2018 22:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/nerdyness/</guid>
+      <guid>https://eoghan.speleo.dev/tags/nerdyness.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathematics</title>
-      <link>https://eoghan.speleo.dev/tags/mathematics/</link>
+      <link>https://eoghan.speleo.dev/tags/mathematics.html</link>
       <pubDate>Sat, 03 Jun 2017 21:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/mathematics/</guid>
+      <guid>https://eoghan.speleo.dev/tags/mathematics.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>GIS</title>
-      <link>https://eoghan.speleo.dev/tags/gis/</link>
-      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Reference</title>
+      <link>https://eoghan.speleo.dev/tags/reference.html</link>
+      <pubDate>Sat, 03 Jun 2017 21:57:45 +0100</pubDate>
       
-      <guid>https://eoghan.speleo.dev/tags/gis/</guid>
+      <guid>https://eoghan.speleo.dev/tags/reference.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronics</title>
+      <link>https://eoghan.speleo.dev/tags/electronics.html</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoghan.speleo.dev/tags/electronics.html</guid>
       <description></description>
     </item>
     

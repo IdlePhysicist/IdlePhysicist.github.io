@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What the hell is with Simultaneous Equations? - IdlePhysicist</title>
+<link rel="stylesheet" type="text/css" href="https://eoghan.speleo.dev/css/main.css">
+</head>
+<body>
+<header>
+  <div>
+    <h1><a href="https://eoghan.speleo.dev">IdlePhysicist</a></h1>
+  </div>
+  <nav><a href="https://eoghan.speleo.dev/tags.html">Tags</a><a href="https://eoghan.speleo.dev/apps.html">Apps</a><a href="https://eoghan.speleo.dev/caving.html">Caving Logs</a><a href="https://eoghan.speleo.dev/about.html">About Me</a><a href="https://s3-eu-west-1.amazonaws.com/eoghan.speleo.dev/cv_Eoghan_ConlonONeill.pdf">CV/Resumé</a></nav>
+</header>
+<main>
+  <article>
+    <div class="title">
+  <h1>What the hell is with Simultaneous Equations?</h1>
+  </div>
+<div class="meta">
+  <div>Date: 2017-06-03
+  <br>Last Updated: 2017-06-03
+  </div>
+  <div>
+    <span><a href="https://eoghan.speleo.dev/tags/mathematics">#Mathematics</a></span>
+    <span><a href="https://eoghan.speleo.dev/tags/reference">#Reference</a></span>
+    </div>
+  </div>
+<div class="content">
+  <p>NB: In school when we say Simultaneous Equations, we generally mean to say a system of linear equations or a linear system.</p>
+<p>Well it&rsquo;s a fair question! They were always one thing I struggled with in school, but I could usually wrangle the answers for the 2 dimensional set of equations but I could never get the correct answers for a 3 dimensional set of equations. We probably all learnt the same method for solving Simultaneous Equations, or symbos as one teacher in my school referred to them as. I now know the method to be called &ldquo;Elimination of Variables&rdquo; which makes perfect sense when you think about it, because that&rsquo;s what it is.</p>
+<h2 id="but-what-does-simultaneous-equations-even-do">But what does simultaneous equations even do?</h2>
+<p>Well initially I learnt them through algebra, so they were just arbitrary stupid problems that I had to do for homework to avoid getting in trouble. But when we did more complicated Coordinate Geometry, I learned that the equations are lines on the x-y plane and the point we find is the point of intersection. This knowledge enables us to apply the mathematical tools of variable elimination and Gauss-Jordan elimination (discussed below), to a wide range of real world problems.</p>
+<h2 id="elimination-of-variables">Elimination of Variables</h2>
+<p>The simplest method for solving a system of equations.</p>
+<p>[
+\begin{aligned}
+2x + 3y &amp;= 6 \newline
+4x + 9y &amp;= 15 \newline
+\hline
+-4x - 6y &amp;= -12 \newline
+4x + 9y &amp;= 15 \newline
+\hline
+0x + 3y &amp;= 3 \newline
+\end{aligned}
+]</p>
+<p>[
+\therefore y = 1
+]</p>
+<p>[
+\begin{aligned}
+2x + 3(1) &amp;= 6 \newline
+2x &amp;= 3
+\end{aligned}
+]</p>
+<p>[
+\therefore x = \frac{3}{2}
+]</p>
+<p>The above figures show that this elimination method works fine for 2D systems but as you can imagine get&rsquo;s tricky for higher order systems.</p>
+<h2 id="gauss-jordan-elimination">Gauss-Jordan Elimination</h2>
+<p>This method I learnt in my Linear Algebra module in university, this makes the process seem much easier (at least to me). You convert the system of equations into whats called an &ldquo;Augmented Matrix&rdquo;, and you perform basic row (usually arithmetic) operations on each row until the matrix reaches whats known as &ldquo;reduced row echelon form&rdquo;. There are three primary row operations, namely;</p>
+<ol>
+<li>Swap the positions of two rows.</li>
+<li>Multiply a row by a nonzero scalar.</li>
+<li>Add to one row a scalar multiple of another.</li>
+</ol>
+<p>[
+\begin{aligned}
+x + 3y - 2z &amp;= 5 \newline
+3x + 5y + 6z &amp;= 7 \newline
+2x + 4y + 3z &amp;= 8
+\end{aligned}
+]</p>
+<p>$$
+\left[
+\begin{array}{rrr|r}
+1 &amp; 3 &amp; -2 &amp; 5 \newline
+3 &amp; 5 &amp; 6 &amp; 7 \newline
+2 &amp; 4 &amp; 3 &amp; 8
+\end{array}\right]
+\rightarrow
+\left[
+\begin{array}{rrr|r}
+1 &amp; 3 &amp; -2 &amp; 5 \newline
+0 &amp; -4 &amp; 12 &amp; -8 \newline
+2 &amp; 4 &amp; 3 &amp; 8
+\end{array}\right]
+$$</p>
+<p>$$
+\rightarrow
+\left[
+\begin{array}{rrr|r}
+1 &amp; 3 &amp; -2 &amp; 5 \newline
+0 &amp; -4 &amp; 12 &amp; -8 \newline
+0 &amp; -2 &amp; 7 &amp; -2
+\end{array}\right]
+\rightarrow
+\left[
+\begin{array}{rrr|r}
+1 &amp; 3 &amp; -2 &amp; 5 \newline
+0 &amp; 1 &amp; -3 &amp; 2 \newline
+0 &amp; -2 &amp; 7 &amp; -2
+\end{array}\right]
+$$</p>
+<p>$$
+\rightarrow
+\left[
+\begin{array}{rrr|r}
+1 &amp; 3 &amp; -2 &amp; 5 \newline
+0 &amp; 1 &amp; -3 &amp; 2 \newline
+0 &amp; 0 &amp; 1 &amp; 2
+\end{array}
+\right]
+\rightarrow
+\left[
+\begin{array}{rrr|r}
+1 &amp; 3 &amp; -2 &amp; 5 \newline
+0 &amp; 1 &amp; 0 &amp; 8 \newline
+0 &amp; 0 &amp; 1 &amp; 2
+\end{array}
+\right]
+$$</p>
+<p>$$
+\rightarrow
+\left[
+\begin{array}{rrr|r}
+1 &amp; 0 &amp; -2 &amp; -19 \newline
+0 &amp; 1 &amp; 0 &amp; 8 \newline
+0 &amp; 0 &amp; 1 &amp; 2
+\end{array}\right]
+\rightarrow
+\left[
+\begin{array}{rrr|r}
+1 &amp; 0 &amp; 0 &amp; -15 \newline
+0 &amp; 1 &amp; 0 &amp; 8 \newline
+0 &amp; 0 &amp; 1 &amp; 2
+\end{array}\right]
+$$</p>
+<p>[
+\begin{aligned}
+x &amp;= -15 \newline
+y &amp;= 8 \newline
+z &amp;= 2
+\end{aligned}
+]</p>
+<p>In fact both methods are the exact same, and variable elimination could be used for &gt;3 dimensional systems. It is just how the mathematics is represented on paper.</p>
+</div>
+
+  </article>
+</main>
+<footer>
+  <div>
+    <div>© 2021 Eoghan - <a href="https://github.com/IdlePhysicist">GitHub</a> - <a href="index.xml">RSS</a></div>
+  </div>
+</footer>
+
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-119867334-1', 'auto');
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\[', '\]']],
+        processEscapes: true,
+        processEnvironments: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        TeX: {
+          equationNumbers: { autoNumber: "AMS" },
+          extensions: ["AMSmath.js", "AMSsymbols.js"]
+        }
+      }
+    });
+    MathJax.Hub.Queue(function () {
+      
+      
+      
+      var all = MathJax.Hub.getAllJax(), i;
+      for (i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+      }
+    });
+
+    MathJax.Hub.Config({
+      
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+    });
+</script></body>
+</html>
