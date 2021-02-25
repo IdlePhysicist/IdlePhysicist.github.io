@@ -1,8 +1,0 @@
-# Select Apps
-A selection of software that I have written, or contributed to, or just like.
-
-
-=> https://github.com/IdlePhysicist/cave-logger Cave Logger : A interface to an SQLite database for storing caving trip info.
-=> https://github.com/IdlePhysicist/deployed Deployed : A CLI tool for answering the question "When was that deployed?"
-=> https://github.com/PremiereGlobal/stim Stim : A project for speeding up development with glue that brings tools together, that I have been grateful to contribute to.
-

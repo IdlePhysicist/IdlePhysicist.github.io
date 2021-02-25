@@ -1,7 +1,0 @@
-# IdlePhysicist's Gemini Capsule
-
-## Menu
-=> /apps.gmi Apps
-=> /caving.gmi Caving Logs
-=> /about.gmi About Me
-=> https://s3-eu-west-1.amazonaws.com/eoghan.speleo.dev/cv_Eoghan_ConlonONeill.pdf CV/Resumé

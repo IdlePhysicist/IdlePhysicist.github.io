@@ -7,5 +7,7 @@
 # Mac
 *.DS_Store
 
+gemini/
+*.gmi
 
 # -- Except ----
