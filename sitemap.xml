@@ -1,303 +1,217 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://eoghan.speleo.dev/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2021/navigation.html</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts.html</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2020/www-emulator.html</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/ephemeris.html</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2020/twilight.html</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/physics.html</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/python.html</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags.html</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/twilight.html</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2020/gitea.html</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2020/homebrew-therion.html</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/about.html</loc>
     <lastmod>2020-04-30T21:49:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/latex.html</loc>
     <lastmod>2019-04-22T20:26:45-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/pandoc.html</loc>
     <lastmod>2019-04-22T20:26:45-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2019/latex-template.html</loc>
     <lastmod>2019-04-22T20:26:45-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/linux.html</loc>
     <lastmod>2019-04-08T19:26:45-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/osx.html</loc>
     <lastmod>2019-04-08T19:26:45-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2019/screen-cheat.html</loc>
     <lastmod>2019-04-08T19:26:45-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2019/mounting-mac-drives.html</loc>
     <lastmod>2019-04-08T19:17:45-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/caving.html</loc>
     <lastmod>2019-02-02T21:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2019/descend-faster.html</loc>
     <lastmod>2019-02-02T21:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2018/cloghleagh.html</loc>
     <lastmod>2018-09-29T19:15:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/exploring.html</loc>
     <lastmod>2018-09-29T19:15:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/review.html</loc>
     <lastmod>2018-09-01T17:15:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2018/nokia-3310.html</loc>
     <lastmod>2018-09-01T17:15:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/julia.html</loc>
     <lastmod>2018-08-12T17:15:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2018/julia-plotting.html</loc>
     <lastmod>2018-08-12T17:15:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/programming.html</loc>
     <lastmod>2018-08-12T17:15:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2018/compile-script.html</loc>
     <lastmod>2018-05-27T22:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2018/verifying.html</loc>
     <lastmod>2018-05-27T16:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/history.html</loc>
     <lastmod>2018-02-09T22:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/nerdyness.html</loc>
     <lastmod>2018-02-09T22:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2018/sea-interferometer.html</loc>
     <lastmod>2018-02-09T22:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/mathematics.html</loc>
     <lastmod>2017-06-03T21:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/reference.html</loc>
     <lastmod>2017-06-03T21:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2017/what-the-hell-is-with-simultaneous-equations.html</loc>
     <lastmod>2017-06-03T21:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/tags/electronics.html</loc>
     <lastmod>2017-05-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2017/les-paul-50.html</loc>
     <lastmod>2017-05-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/posts/2017/strat.html</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/categories.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/caving.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eoghan.speleo.dev/apps.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>
